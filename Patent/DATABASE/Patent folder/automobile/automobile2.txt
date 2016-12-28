@@ -1,0 +1,32 @@
+SYSTEM AND METHOD FOR NETWORK LOCAL AFFILIATE TO USE AIRTIME ON A TELEVISION NETWORK IN A RETAILER LOCAL AFFILIATE OF A NATIONAL NETWORK SERVICE PROVIDER ...
+
+Abstract
+A system and method for managing airtime on an out-of-home television network may include partitioning out-of-home television network airtime between a national network service provider and retailer local affiliate. Unbooked airtime may be reserved for a booking agent. In response to identifying the booking agent, the booking agent may be enabled to book reserved airtime on the out-of-home television network. Airtime may be booked with content in response to receiving a booking request. The content may be uploaded and distributed for display on the out-of-home television network.
+
+Inventors:	Wolinsky; Robert I.; (Fairfield, CT) ; Lunghi; John; (Fairfield, CT) ; Becker; Glenn; (New City, NY)
+Serial No.:	313508
+Series Code:	13
+Filed:	December 7, 2011
+Current U.S. Class:	725/36
+Class at Publication:	725/36
+International Class:	H04N 21/236 20110101 H04N021/236
+Claims
+
+
+1. A method for managing airtime on an out-of-home television network, said method comprising: partitioning out-of-home television network airtime between a national network service provider and retailer local affiliate; reserving unbooked airtime for a booking agent; in response to identifying the booking agent, enabling the booking agent to book reserved airtime on the out-of-home television network; booking airtime with content in response to receiving a booking request; uploading the content; and distributing the content for display on the out-of-home television network. 
+
+2. The method according to claim 1, wherein reserving unbooked airtime includes reserving local airtime of the retailer local affiliate. 
+
+3. The method according to claim 1, wherein identifying the booking agent includes receiving an access code associated with the airtime and booking agent. 
+
+4. The method according to claim 1, further comprising setting a compensation metric and using the compensation metric to compute a compensated impressions value. 
+
+5. The method according to claim 4, wherein setting the compensation metric includes computing a compensation metric. 
+
+6. The method according to claim 6, wherein computing the compensation metric includes using business rules in the computation. 
+
+7. The method according to claim 1, further managing an impression balance list that includes a current impression balance for an advertiser. 
+
+8. The method according to claim 7, further comprising offsetting a current impression balance with impressions delivered by an out-of-home television network and displaying the offset current impression balance. 
+
+9. The method according to claim 8, wherein offsetting a current impression balance with impressions includes offsetting the current impression balance with compensated actual impressions, and displaying the offset current impression balance.

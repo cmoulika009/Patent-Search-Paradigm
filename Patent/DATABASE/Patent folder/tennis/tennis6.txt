@@ -1,0 +1,9 @@
+Method and system for generating dialogue managers with diversified dialogue acts ...
+
+Abstract
+A method to generate dialogue manager (DM) is provided, in which a plurality DMs with the same purpose but having different dialogue acts is automatically generated according to a DM designed by a designer. An automatic aiding tool facilitates the design of a dialogue flow and the adjustment of DM rules, and also helps a system designer to find out potential problems in the original DM. The method adopts the current DM combined with a user simulation technique and further employs a specially designed scoring function, so as to automatically generate a plurality of new DMs. The new DMs achieve the same dialogue purpose as the original DM, but differ from the original DM in system acts and responses during the dialogue process. The dialogue flow of the dialogue system is enhanced, and meanwhile, the design and improvement of the DM are also accelerated.
+
+Inventors:	Wu; Hsu-Chih (Yilan County, TW), Lee; Ching-Hsien (Kaohsiung, TW)
+Assignee:	Industrial Technology Research Institute (Hsinchu, TW) 
+Appl. No.:	12/206,752
+Filed:	September 9, 2008

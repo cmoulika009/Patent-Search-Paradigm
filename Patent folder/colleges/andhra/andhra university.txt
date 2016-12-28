@@ -1,0 +1,8 @@
+College name:  andhra university
+
+Address: 
+Karachettu Rd, Vishakhapatnam, Andhra Pradesh 530003
+
+Available courses: B.tech,M.Tech,BCA,M.Sc,B.Ed,M.A,MBA,M.Phil,Phd,LLB
+
+Website: www.andhrauniversity.info

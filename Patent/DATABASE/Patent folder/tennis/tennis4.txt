@@ -1,0 +1,36 @@
+HIGHLY ACCURATE DISTANCE MEASUREMENT DEVICE ...
+
+Abstract
+Highly accurate electro-optical time of flight distance measuring device for determining a distance to a target, including a transmitter for sending out a pulse shaped optical radiation to the target as well as a receiver for an optical signal built for turning the optical signal to an electrical signal, and a filter with a transfer function for filtering the electrical signal whereby the filter is built in such a way that its transfer-function is of at least 4th order, in particular 5th or 7th or higher order, so that aliasing is suppressed. Further a waveform-sampler, as an analog-to-digital-converter, for digitalizing the pulse shape from the filtered electrical signal as time- and value-quantized digital data, and a computation means for a numerical evaluation of the distance according to the pulse shape or a pulse shape representing numerical signature from the digital data.
+
+Inventors:	Stutz; Reto; (Berneck, CH) ; Fritsch; Robert; (Balgach, CH) ; Hinderling; Juerg; (Marbach, CH) ; Rohner; Marcel; (Heiden, CH)
+Assignee:	LEICA GEOSYSTEMS AG
+Heerbrugg
+CH
+
+Serial No.:	518540
+Series Code:	13
+Filed:	December 22, 2010
+PCT Filed:	December 22, 2010
+PCT NO:	PCT/EP2010/070604
+371 Date:	June 22, 2012
+Current U.S. Class:	356/5.01
+Class at Publication:	356/5.01
+International Class:	G01C 3/08 20060101 G01C003/08
+Foreign Application Data
+Date	Code	Application Number
+Dec 22, 2009	EP	09180493.0
+Claims
+
+
+1.-15. (canceled) 
+
+16. A highly accurate, electro-optical time of flight distance measuring device for determining a distance to a target, comprising: a transmitter for sending out a pulse shaped optical radiation to the; a receiver for an optical return signal, which comprises parts of the optical radiation scattered back from the target, built for turning the optical return signal to an electrical signal; a filter with a transfer-function for filtering the electrical signal; a waveform-sampler, as an analog-to-digital-converter, for digitizing the pulse shape from the filtered electrical signal as time- and value-quantified digital data; a computation means for a numerical evaluation of the distance according to the pulse shape or a pulse shape representing numerical signature from the digital data, with a resolution in time being higher than the sampling interval of the waveform-sampler by numerical resampling of the pulse shape represented by the digital data, wherein the filter is built in such a way that its transfer-function is of at least 7.sup.th order or higher order so that aliasing is suppressed. 
+
+17. An electro-optical distance measuring device according to claim 16, wherein the pulse shaped optical radiation is a pulse modulated laser beam, the receiver includes a photodiode or avalanche photodiode, and the filter includes an analog-signal lowpass or bandpass filter. 
+
+18. An electro-optical distance measuring device according to claim 16, wherein the computation means for a numerical evaluation of the distance according to the pulse shape or a pulse shape representing numerical signature from the digital data, with a resolution in time being higher than the sampling interval of the waveform-sampler by numerical resampling of the pulse shape represented by the digital data according to the Nyquist-Shannon-Theorem as amplitude values at instances of time in-between the time-quantifying sampling-times when no actual value of the electrical signal had been sampled. 
+
+19. An electro-optical distance measuring device according to claim 16, wherein the filter is built in such a way that its transfer-function is of at least 14.sup.th or higher order so that aliasing is suppressed. 
+
+20. An electro-optical distance measuring device according to claim 16, wherein the filter has a suppression rate of at least 60 dB for aliasing producing frequencies of the electrical signal being outside of a selected Nyquist band of the time-quantification of the waveform-sampler. 

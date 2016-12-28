@@ -1,0 +1,38 @@
+PLANTS AND SEEDS OF SPRING CANOLA VARIETY SCV695971 ...
+
+Abstract
+In an embodiment, the invention relates to the seeds, plants, and plant parts of canola line SCV695971 and to methods for producing a canola plant produced by crossing canola line SCV695971 with itself or with another canola line. The invention also relates to methods for producing a canola plant containing in its genetic material one or more transgenes and to the transgenic canola plants and plant parts produced by those methods. This invention also relates to canola lines or breeding lines and plant parts derived from canola line SCV695971, to methods for producing other canola lines, lines or plant parts derived from canola line SCV695971 and to the canola plants, varieties, and their parts derived from use of those methods. The invention further relates to hybrid canola seeds, plants and plant parts produced by crossing the line SCV695971 with another canola line.
+
+Inventors:	Wu; Chunren; (Winnipeg, CA) ; Liu; Jun; (Winnipeg, CA)
+Assignee:	MONSANTO TECHNOLOGY LLC
+St. Louis
+MO
+
+Serial No.:	082633
+Series Code:	13
+Filed:	April 8, 2011
+Current U.S. Class:	800/260; 426/601; 426/622; 426/623; 435/410; 44/307; 530/372; 554/1; 800/300; 800/301; 800/302; 800/303; 800/306
+Class at Publication:	800/260; 800/306; 435/410; 800/303; 800/300; 800/302; 800/301; 554/1; 44/307; 426/623; 426/601; 426/622; 530/372
+International Class:	A01H 5/00 20060101 A01H005/00; C12N 5/04 20060101 C12N005/04; A01H 1/02 20060101 A01H001/02; C07K 14/435 20060101 C07K014/435; C10L 1/00 20060101 C10L001/00; A23K 1/00 20060101 A23K001/00; A23D 9/00 20060101 A23D009/00; A23L 1/00 20060101 A23L001/00; A01H 5/10 20060101 A01H005/10; C11B 1/00 20060101 C11B001/00
+Claims
+
+
+1. A seed of canola line SCV695971, representative sample of seed of which was deposited under ATCC Accession No. PTA-11751. 
+
+2. A canola plant, or a part thereof, produced by growing the seed of claim 1. 
+
+3. A tissue culture produced from protoplasts or cells from the plant of claim 2, wherein said cells or protoplasts of the tissue culture are produced from a plant part selected from the group consisting of leaf, pollen, embryo, cotyledon, hypocotyl, meristematic cell, root, root tip, anther, pistil, flower, shoot, stem, petiole and pod. 
+
+4. A canola plant regenerated from the tissue culture of claim 3, wherein the plant has essentially all of the morphological and physiological characteristics of line SCV695971 as shown in Table 1. 
+
+5. A composition comprising a seed or plant part of canola line SCV695971 and a cultivation medium, wherein a representative sample of seed of canola line SCV000000 has been deposited under ATCC Accession No. PTA-11751. 
+
+6. The seed or plant part of claim 5, wherein the cultivation medium is soil or a synthetic medium. 
+
+7. A canola seed produced by crossing two canola plants and harvesting the resultant canola seed, wherein at least one canola plant is the canola plant of claim 2. 
+
+8. A canola plant, or a part thereof, produced by growing said seed of claim 7. 
+
+9. A method of producing a male sterile canola plant wherein the method comprises crossing the canola plant of claim 2 with a male sterile canola plant and harvesting the resultant seed. 
+
+10. A male sterile canola plant produced by transforming the canola plant of claim 2 with a nucleic acid molecule that confers male sterility. 

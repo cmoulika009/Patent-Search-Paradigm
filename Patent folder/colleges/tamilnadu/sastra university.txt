@@ -1,0 +1,10 @@
+College name:  sastra university
+
+Address: 
+Tirumalaisamudram
+Thanjavur - 613401.
+Tamilnadu
+
+Available courses: B.tech,M.Tech, B.Com,B.A,LL.B,MSc,MBA,MCA
+
+Website: www.sastra.edu

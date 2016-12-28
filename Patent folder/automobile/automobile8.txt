@@ -1,0 +1,40 @@
+VEHICLE NAVIGATION SYSTEM AND METHOD ...
+
+Abstract
+Methods and systems are provided for a vehicle. An occupant of the vehicle is identified. Information pertaining to the occupant is accessed from a database. Marketing material is provided to the occupant based on the information.
+
+Inventors:	LOBAZA; Anthony G.; (Bloomfield Hills, MI) ; QUINN; Michael J.; (Troy, MI) ; VANITVELT; Richard C.; (Metamora, MI)
+Assignee:	GM GLOBAL TECHNOLOGY OPERATIONS LLC
+DETROIT
+MI
+
+Serial No.:	080526
+Series Code:	13
+Filed:	April 5, 2011
+Current U.S. Class:	705/14.62; 705/14.64; 705/14.66
+Class at Publication:	705/14.62; 705/14.66; 705/14.64
+International Class:	G06Q 30/00 20060101 G06Q030/00; G01C 21/00 20060101 G01C021/00
+Claims
+
+
+1. A method for marketing to an occupant of a vehicle, the method comprising the steps of: identifying the occupant; accessing information pertaining to the occupant from a database; and providing marketing material to the occupant based on the information using a processsor. 
+
+2. The method of claim 1, wherein the step of identifying the occupant comprises the steps of: obtaining an input from the occupant via a user interface; and identifying the occupant using the input. 
+
+3. The method of claim 1, wherein the step of identifying the occupant comprises the steps of: receiving a signal from a wireless device; and identifying the occupant using the signal. 
+
+4. The method of claim 1, wherein the step of identifying the occupant comprises the steps of: performing an evaluation of a manner in which the vehicle is being driven; and identifying the occupant using the evaluation. 
+
+5. The method of claim 1, wherein: the step of accessing the information comprises the step of accessing a history of businesses which the occupant has visited; and the step of providing the marketing material comprises the step of providing the marketing material to the occupant based on the history. 
+
+6. The method of claim 5, further comprising the step of: identifying a competitor of one of the businesses; wherein the step of providing the marketing material comprises the step of providing the marketing material to the occupant regarding the competitor. 
+
+7. The method of claim 1, wherein: the step of accessing the information comprises the step of accessing financial records pertaining to the occupant; and the step of providing the marketing material comprises the step of providing the marketing material to the occupant based on the financial records. 
+
+8. The method of claim 1, wherein: the step of accessing the information comprises the step of accessing demographic information pertaining to the occupant; and the step of providing the marketing material comprises the step of providing the marketing material to the occupant based on the demographic information. 
+
+9. The method of claim 1, wherein the step of providing the marketing material comprises the step of providing the marketing material to the occupant via a display device of a navigation system of the vehicle. 
+
+10. The method of claim 1, wherein the step of providing the marketing material comprises the step of transmitting the marketing material to a wireless device of the occupant. 
+
+11. A method of notifying an occupant of a vehicle travelling toward a destination, the method comprising the steps of: accessing a calendar of the occupant; determining a desired time to reach the destination using the calendar; and providing a notification regarding a desired route for the vehicle based on the desired time. 

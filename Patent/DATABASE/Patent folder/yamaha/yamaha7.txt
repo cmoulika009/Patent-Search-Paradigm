@@ -1,0 +1,42 @@
+WATER JET PROPULSION WATERCRAFT ...
+
+Abstract
+A water jet propulsion watercraft includes a first exhaust pipe that is fixed to an engine and connected to an exhaust port of the engine... A damper section reduces vibrations from the engine. A catalytic converter unit is connected to the first exhaust pipe. The catalytic converter unit is attached to the engine through the damper section. A second exhaust pipe includes a first flexible pipe having a flexible quality and is connected to the catalytic converter unit. A water lock is fixed to a hull of the watercraft and connected to the second exhaust pipe.
+
+Inventors:	MOROTA; Koichiro; (Shizuoka, JP) ; OZAWA; Shigeyuki; (Shizuoka, JP)
+Assignee:	YAMAHA HATSUDOKI KABUSHIKI KAISHA
+Iwata-shi
+JP
+
+Serial No.:	459277
+Series Code:	13
+Filed:	April 30, 2012
+Current U.S. Class:	440/38
+Class at Publication:	440/38
+International Class:	B63H 11/02 20060101 B63H011/02; F01N 13/12 20100101 F01N013/12; B63H 21/30 20060101 B63H021/30; B63H 21/32 20060101 B63H021/32
+Foreign Application Data
+Date	Code	Application Number
+Apr 8, 2009	JP	2009-093914
+Jul 6, 2011	JP	2011-149723
+Claims
+
+
+1. A water jet propulsion watercraft comprising: a hull; an engine including an exhaust port, the engine housed inside the hull; a jet propulsion unit arranged to be driven by the engine and configured to draw in water from around the hull and jet the water out; a first exhaust pipe fixed to the engine and connected to the exhaust port; a damper section configured to reduce a vibration from the engine; a catalytic converter unit connected to the first exhaust pipe and attached to the engine through the damper section; a second exhaust pipe including a first flexible pipe connected to the catalytic converter unit; and a water lock fixed to the hull and connected to the second exhaust pipe. 
+
+2. The water jet propulsion watercraft according to claim 1, wherein the first exhaust pipe includes a second flexible pipe. 
+
+3. The water jet propulsion watercraft according to claim 1, wherein the first exhaust pipe is arranged to extend in a longitudinal direction of the water jet propulsion watercraft along a side of the engine; and the catalytic converter unit is arranged to face a front surface or a rear surface of the engine. 
+
+4. The water jet propulsion watercraft according to claim 3, wherein the engine further includes a crankshaft arranged to extend in the longitudinal direction of the water jet propulsion watercraft; and the damper section includes a first damper arranged leftward of an axial centerline of the crankshaft and a second damper arranged rightward of the axial centerline of the crankshaft. 
+
+5. The water jet propulsion watercraft according to claim 3, wherein the engine further includes a crankshaft arranged to extend in the longitudinal direction of the water jet propulsion watercraft; the catalytic converter unit is arranged such that the catalytic converter unit overlaps an axial centerline of the crankshaft in a plan view of the engine. 
+
+6. The water jet propulsion watercraft according to claim 1, wherein a direction in which an exhaust gas passes through the catalytic converter unit is a horizontal direction; and a direction in which the catalytic converter unit is supported by the damper section is perpendicular or substantially perpendicular to the direction in which the exhaust gas passes through the catalytic converter unit. 
+
+7. The water jet propulsion watercraft according to claim 1, further comprising: a coupling section configured to couple an output shaft of the engine and an input shaft of the jet propulsion unit together; and a support member fixed to the engine; wherein the engine supports the catalytic converter unit through the damper section and the support member; and the support member has a recessed shape at a portion positioned above the coupling section. 
+
+8. The water jet propulsion watercraft according to claim 1, further comprising: a bolt to attach the catalytic converter unit to the engine; and a support member fixed to the engine; wherein the engine supports the catalytic converter unit through the damper section and the support member; the damper section includes an elastic member in which a through hole is provided; the catalytic converter unit includes amounting hole in which the elastic member is installed; and the bolt is arranged to pass through the through hole of the elastic member and is fastened to the support member. 
+
+9. The water jet propulsion watercraft according to claim 8, wherein the catalytic converter unit includes a catalyst member and a pipe body housing the catalyst member; an outer surface of the pipe body includes a recessed section positioned above the mounting hole; and an inner surface of the pipe body includes a curved section that is positioned on a back side of the recessed section and curved such that the curved section protrudes in an inward direction of the pipe body. 
+
+10. The water jet propulsion watercraft according to claim 1, wherein the catalytic converter unit includes a catalyst member and a pipe body housing the catalyst member; the catalyst member includes a flange section; the pipe body includes a first pipe body and a second pipe body that is separate from the first pipe body; and the catalyst member is held in the pipe body by the flange section being pinched between the first pipe body and the second pipe body.

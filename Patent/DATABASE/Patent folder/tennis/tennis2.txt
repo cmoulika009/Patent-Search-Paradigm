@@ -1,0 +1,28 @@
+Dual Variable Domain Immunoglobulins and Uses Thereof ...
+
+Abstract
+Engineered multivalent and multispecific binding proteins, methods of making, and their uses in the prevention, diagnosis, and/or treatment of disease are provided.
+
+Inventors:	Ghayur; Tariq; (Holliston, MA) ; Liu; Junjian; (Shrewsbury, MA) ; Gu; Jijie; (Shrewsbury, MA) ; Harris; Maria C.; (Shrewsbury, MA)
+Assignee:	Abbott Laboratories
+
+Serial No.:	286707
+Series Code:	13
+Filed:	November 1, 2011
+Current U.S. Class:	424/136.1; 435/252.33; 435/254.11; 435/254.2; 435/254.21; 435/258.1; 435/320.1; 435/328; 435/419; 435/69.6; 436/501; 530/387.3; 530/391.7; 536/23.53
+Class at Publication:	424/136.1; 530/387.3; 530/391.7; 536/23.53; 435/320.1; 435/328; 435/258.1; 435/419; 435/254.11; 435/252.33; 435/254.2; 435/254.21; 435/69.6; 436/501
+International Class:	C07K 16/46 20060101 C07K016/46; C12N 15/13 20060101 C12N015/13; A61K 39/395 20060101 A61K039/395; A61P 29/00 20060101 A61P029/00; A61P 35/00 20060101 A61P035/00; G01N 33/53 20060101 G01N033/53; C12N 5/10 20060101 C12N005/10; C12N 1/11 20060101 C12N001/11; C12N 1/15 20060101 C12N001/15; C12N 1/21 20060101 C12N001/21; C12N 1/19 20060101 C12N001/19; C12P 21/02 20060101 C12P021/02; C07K 17/00 20060101 C07K017/00; C12N 15/63 20060101 C12N015/63
+Claims
+
+
+1. A binding protein that binds a pair of antigens, comprising a polypeptide chain, wherein said polypeptide chain comprises VD1-(X1)n-VD2-C--(X2)n, wherein; VD1 is a tint heavy chain variable domain; VD2 is a second heavy chain variable domain; C is a heavy chain constant domain; X1 is a linker with the proviso that it is not CH1; X2 is an Fc region; (X1)n is (X1)0 or (X1)1; and (X2)n is (X2)0 or (X2)1 wherein the pair of antigens is TNF and PGE2 or VEGF and DLL4, and wherein the VD1 and VD2 independently comprise three CDRs from SEQ ID NO: 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 280, 282, 284, 286, 288, 290, 292, 294, 296, 298, 300, or 302. 
+
+2. The binding protein according to claim 1, wherein VD1 and VD2 independently comprise SEQ ID NO: 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 280, 282, 284, 286, 288, 290, 292, 294, 296, 298, 300, or 302. 
+
+3. A binding protein that hinds a pair of antigens, comprising a polypeptide chain, wherein said polypeptide chain comprises VD1-(X1)n-VD2-C--(X2)n, wherein; VD1 is a first light chain variable domain; VD2 is a second light chain variable domain; C is a light chain constant domain; X1 is a linker with the proviso that it is not CL; X2 does not comprise an Fc region; (X1)n is (X1)0 or (X1)1; and (X2)n is (X2)0 or (X2)1 wherein the pair of antigens is TNF and PGE2 or VEGF and DLL4, and wherein the VD1 and VD2 independently comprise three CDRs from SEQ ID NO: 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 281, 283, 285, 287, 289, 291, 293, 295, 297, 299, 301, or 303. 
+
+4. The binding protein according to claim 3, wherein the VD1 and VD2 independently comprise to SEQ ID NO: 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 281, 283, 285, 287, 289, 291, 293, 295, 297, 299, 301, or 303. 
+
+5. The binding protein according to claim 1 or 3, wherein (X1)n is (X1)0 and/or (X2)n is (X2)0. 
+
+6. A binding protein that binds a pair of antigens, comprising first and second polypeptide chains, wherein said first polypeptide chain comprises a first VD1-(X1)n-VD2-C--(X2)n, wherein VD1 is a first heavy chain variable domain; VD2 is a second heavy chain variable domain; C is a heavy chain constant domain; X1 is a first linker; X2 is an Fc region; (X1)n is (X1)0 or (X1)1; and (X2)n is (X2)0 or (X2)1 wherein said second polypeptide chain comprises a second VD1-(X1)n-VD2-C--(X2)n, wherein VD1 is a first light chain variable domain; VD2 is a second light chain variable domain; C is a light chain constant domain; X1 is a second linker; X2 does not comprise an Fc region; (X1)n is (X1)0 or (X1)1; and (X2)n is (X2)0 or (X2)1; wherein the first and second X1 linker are the same or different; wherein the first X1 linker is not CH1 and/or the second X1 linker is not CL; wherein the pair of antigens is TNF and PGE2 or VEGF and DLL4, and wherein the heavy chain VD1 and VD2 independently comprise three. CDRs from NO: 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 280, 282, 284, 286, 288, 290, 292, 294, 296, 298, 300, or 302; and the light chain VD1 and VD2 independently comprise SEQ ID NO: 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 281, 283, 285, 287, 289, 291, 293, 295, 297, 299, 301, or 303. 

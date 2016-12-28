@@ -1,0 +1,8 @@
+College name:  amrita university
+
+Address: 
+Ettimadai, Tamil Nadu
+
+Available courses: B.tech,MBBS,MBA,MCA
+
+Website:www.amrita.edu

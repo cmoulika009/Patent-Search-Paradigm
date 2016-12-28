@@ -1,0 +1,34 @@
+FITNESS DEVICE ...
+
+Abstract
+The invention relates to a fitness device (1) that can be used in a mobile or stationary manner, comprising: a frame (4) on which two front wheels (6) and one rear wheel (5) are disposed, a drive device on each side of the frame (4), each made up of an arm drive rod (2) joined to a leg drive rod (3) by a hinge, wherein the leg drive rod (3) transfers a torque via a ring gear (10) and a chain to the rear wheel (5), a steering device (7) for steering the fitness device (1) in mobile use by means of tilting the frame (4), and a tilting/steering damper formed by damping elements (9) and disposed between the front wheels (6) and the frame (4).
+
+Inventors:	Eisenberg; Wolfgang; (Troisdorf, DE)
+Assignee:	ACTIVECROSS GMBH I.G.
+Munchen
+DE
+
+Serial No.:	510332
+Series Code:	13
+Filed:	November 12, 2010
+PCT Filed:	November 12, 2010
+PCT NO:	PCT/EP10/67410
+371 Date:	June 25, 2012
+Current U.S. Class:	482/57
+Class at Publication:	482/57
+International Class:	A63B 69/16 20060101 A63B069/16
+Foreign Application Data
+Date	Code	Application Number
+Nov 20, 2009	DE	10 2009 053 890.9
+Claims
+
+
+1. Mobile fitness device, comprising: a. a frame on which two front wheels and a rear wheel are disposed, b. one driving mechanism, respectively, on both sides of the frame, each comprising an arm drive rod hinged to a leg drive rod, wherein the leg drive rods transfer a torque to the rear wheel via a ring gear and a chain, c. a steering assembly for steering the fitness device by tilting the frame, d. a tilting/steering damping system formed by damping elements which is disposed between the front wheels and the frame. 
+
+2. Mobile fitness device according to claim 1, wherein one side of the damping elements is respectively disposed on one wheel suspension. 
+
+3. Mobile fitness device according to claim 1, wherein a transfer element is disposed between the wheel suspension and the damping element. 
+
+4. Mobile fitness device according to claim 1, wherein at least one damping parameter of the damping elements is adjustable. 
+
+5. Mobile fitness device according to claim 1, wherein the damping elements comprise a tilting stop. 

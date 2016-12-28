@@ -1,0 +1,40 @@
+SADDLE RIDING TYPE VEHICLE ...
+
+Abstract
+A saddle riding type vehicle of this invention includes a right wheel and a left wheel,... a right lower arm and a left lower arm swingably provided on a vehicle arranged to support the right wheel and the left wheel to be movable up and down, and a right stopper member and a left stopper member arranged to contact the right lower arm and the left lower arm to stop the vehicle body from leaning in excess of a predetermined amount, which do not stop leaning of the vehicle body when the lean amount of the vehicle body is less than the predetermined amount. The vehicle body is arranged to lean freely when the lean amount of the vehicle body is in a range not exceeding the predetermined amount. Therefore, the rider can preferably travel comfortably.
+
+Inventors:	Tsujii; Eiichirou; (Shizuoka, JP) ; Nishida; Kazuhiro; (Shizuoka, JP) ; Imai; Atsushi; (Shizuoka, JP)
+Assignee:	Yamaha Hatsudoki Kabushiki Kaisha
+Iwata-shi, Shizuoka
+JP
+
+Serial No.:	515693
+Series Code:	13
+Filed:	December 6, 2010
+PCT Filed:	December 6, 2010
+PCT NO:	PCT/JP2010/007092
+371 Date:	June 13, 2012
+Current U.S. Class:	280/5.509
+Class at Publication:	280/5.509
+International Class:	B62D 9/02 20060101 B62D009/02
+Foreign Application Data
+Date	Code	Application Number
+Dec 17, 2009	JP	2009-286584
+Claims
+
+
+1-15. (canceled) 
+
+16. A saddle riding type vehicle that makes turns by leaning a vehicle body, the saddle riding type vehicle comprising: a right wheel and a left wheel provided at opposite sides of the vehicle body; a suspension mechanism provided on the vehicle body to support the right wheel and the left wheel to be movable up and down in mutually opposite directions; and a stopper member that contacts the suspension mechanism to stop the vehicle body from leaning in excess of a predetermined amount when a lean amount of the vehicle body becomes the predetermined amount. 
+
+17. The saddle riding type vehicle according to claim 16, wherein the stopper member is separated from the suspension mechanism when the lean amount of the vehicle body is less than the predetermined amount. 
+
+18. The saddle riding type vehicle according to claim 16, wherein the stopper member contacts the suspension mechanism without obstructing a motion of the suspension mechanism to move the right wheel upward and a motion of the suspension mechanism to move the left wheel upward. 
+
+19. The saddle riding type vehicle according to claim 16, wherein the suspension mechanism includes: a right support mechanism swingably provided on the vehicle to support the right wheel to be movable up and down; a left support mechanism swingably provided on the vehicle to support the left wheel to be movable up and down; and a balancer member that links a swing of the right support mechanism and a swing of the left support mechanism so as to allow the right wheel and the left wheel to move up and down in the mutually opposite directions; wherein the stopper member is in a position deviated from above the right support mechanism and above the left support mechanism. 
+
+20. The saddle riding type vehicle according to claim 16, wherein the suspension mechanism includes a buffer that absorbs a shock received by at least one of the right wheel and the left wheel from outside even when the suspension mechanism is in contact with the stopper member. 
+
+21. The saddle riding type vehicle according to claim 20, wherein the suspension mechanism includes: a right support mechanism swingably provided on the vehicle to support the right wheel to be movable up and down; a left support mechanism swingably provided on the vehicle to support the left wheel to be movable up and down; a balancer member that links a swinging of the right support mechanism and a swinging of the left support mechanism so as to allow the right wheel and the left wheel to move up and down in the mutually opposite directions; and a carrier beam member swingably provided on the vehicle to support the balancer member to be rotatable about a rotation axis and to be movable up and down; wherein the buffer is disposed between the vehicle body and the carrier beam member; and the stopper member contacts the suspension mechanism without obstructing an upward movement of the balancer member, an upward swinging of the right support mechanism, and an upward swinging of the left support mechanism. 
+
+22. The saddle riding type vehicle according to claim 20, wherein the suspension mechanism includes: a right support mechanism swingably provided on the vehicle to support the right wheel to be movable up and down; a left support mechanism swingably provided on the vehicle to support the left wheel to be movable up and down; and a balancer member that is rotatably supported by the vehicle body and links a swinging of the right support mechanism and a swinging of the left support mechanism so as to allow the right wheel and the left wheel to move up and down in the mutually opposite directions; wherein the buffer includes: a right buffer disposed between the balancer member and the right support mechanism; and a left buffer disposed between the balancer member and the left support mechanism; and the stopper member contacts the suspension mechanism without obstructing an upward swing of the right support mechanism and an upward swing of the left support mechanism. 

@@ -1,0 +1,34 @@
+Systems and Methods for a Notification System That Enable User Changes to Quantity of Goods and/or Services for Delivery and/or Pickup ...
+
+Abstract
+Systems and methods are disclosed for automated notification systems. A representative method, among others, can be summarized by the following steps: monitoring travel data in connection with a mobile thing (MT) that is destined to pickup or deliver an item or service at a stop location; causing initiation of a notification communication session with a personal communications device (PCD) based upon the travel data; and during the notification communication session, enabling a party associated with the PCD to change one or more tasks associated with the pickup or delivery. A representative system, among others, comprises a computer or other automated system that is programmed or designed to perform the foregoing steps.
+
+Inventors:	Horstemeyer; Scott A.; (Atlanta, GA)
+Serial No.:	478471
+Series Code:	13
+Filed:	May 23, 2012
+Current U.S. Class:	726/4; 709/204
+Class at Publication:	726/4; 709/204
+International Class:	G06F 15/16 20060101 G06F015/16; G06F 21/20 20060101 G06F021/20
+Claims
+
+
+1. A notification system having a computer-based architecture using one or more computers, the notification system comprising: one or more memories for storing computer program code; and one or more processors for executing the computer program code, the computer program code comprising: code designed to communicatively couple the notification system with a first personal communication device (PCD) associated with a first party to engage in a first communication session so that delivery or pickup information can be exchanged in connection with a good or service; code designed to, during the first communication session, enable the first party to input or select at least an identification of the good or service, a quantity of the good or service, and a stop location for a delivery or pickup of the good or service; code designed to, during the first communication session, store the identification of the good or service, the quantity of the good or service, and the stop location for the delivery or pickup of the good or service in the one or more memories; code designed to analyze timing information pertaining to when a mobile thing (MT) is to deliver or pickup the good or service at the stop location; code designed to communicatively couple the notification system with the first PCD to engage in a second communication session based upon an analysis of a proximity of the MT and the stop location; code designed to, during the second communication session, enable the first party associated with the first PCD to select whether or not to communicate with an entity having access to details of the delivery or pickup; code designed to, during the second communication session, when the first party selects to communicate with the entity, communicate the timing information to the first PCD; and code designed to, during the second communication session, enable the first party to change the quantity of the good or service. 
+
+2. The system of claim 1, wherein the computer program code further comprise code designed to, during the second communication session, enable the first party to change the stop location of the MT. 
+
+3. The system of claim 1, wherein the computer program code further comprise code designed to, during the first communication session, enable the first party to input contact information for the first party, and wherein the computer program code further comprise code designed to, during the second communication session, enable the first party to change the contact information. 
+
+4. The system of claim 1, wherein the computer program code further comprise code designed to, during the second communication session, enable the first party to change the timing information. 
+
+5. The system of claim 1, wherein the computer program code further comprise code designed to, during the second communication session, enable the first party to change the identification of the good or service. 
+
+6. The system of claim 1, further comprising code designed to, during the first communication session, enable the first party to input a communication method for the second communication session. 
+
+7. The system of claim 1, wherein the first party associated with the first PCD is enabled to select whether or not to communicate with the entity by communicating a link that can be selected by the first party and that causes the first PCD to communicate with the notification system via the Internet. 
+
+8. The system of claim 1, wherein the one or more computers includes a plurality, wherein the plurality are communicatively coupled over the Internet, and wherein the first and second communication sessions occur over the Internet. 
+
+9. The system of claim 1, further comprising code designed to, during the first communication session, enable the first party to input authentication information and further comprising code designed to, during the second communication session, communicate the authentication information to the first PCD thereby indicating to the first party that the second communication session has been initiated by an authorized source. 
+
+10. The system of claim 1, further comprising code designed to, during the second communication session, enable the first party to schedule a future notification communication session to be initiated by the notification system based upon another proximity of the MT and the stop location. 

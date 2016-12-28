@@ -1,0 +1,9 @@
+Auto-deploying an application from a mobile device to a host in a pervasive computing environment ...
+
+Abstract
+Disclosed is a technique for auto-deploying an application from a mobile communication device to a host in a pervasive computing environment. The technique can detect and can select an available host around the mobile communication device. The technique can determine if the mobile communication device issues a request of auto-deploying a selected application into the available host. In response to the issued auto-deploying request, the selected application can be auto-deployed into the available host for execution.
+
+Inventors:	Hsu; Tony S. T. (Taipei, TW), Lu; Charles H. (Taipei, TW)
+Assignee:	International Business Machines Corporation (Armonk, NY) 
+Appl. No.:	12/258,743
+Filed:	October 27, 2008

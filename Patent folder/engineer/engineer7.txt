@@ -1,0 +1,25 @@
+DESIGNING SUPPLY WIRINGS IN SEMICONDUCTOR INTEGRATED CIRCUIT BY DETECTING POWER SUPPLY WIRING OF SPECIFIC WIRING LAYER IN PROJECTION AREA ...
+
+Abstract
+A design support method for causing a computer using layout data for providing a layout in which macro cells are arranged and in which power supply wirings are formed at certain intervals in each wiring layer to execute, the method including: extracting a set of adjacent macro cells from the layout data; specifying a region located between macro cells that constitute the set of adjacent macro cells extracted in the extracting step from among row regions included in the layout represented by the layout data; detecting a power supply wiring of a specific wiring layer in a projection area located above the region specified in the specifying step, the specific wiring layer being higher than a bottom layer of the layout represented by the layout data; and outputting a region where no power supply wiring of the specific wiring layer is detected in the detecting step.
+
+Inventors:	Kumagai; Kenji; (Tokyo, JP) ; Suda; Jun; (Tokyo, JP)
+Assignee:	FUJITSU SEMICONDUCTOR LIMITED
+Yokohama
+JP
+
+Serial No.:	528369
+Series Code:	13
+Filed:	June 20, 2012
+Current U.S. Class:	716/120
+Class at Publication:	716/120
+International Class:	G06F 17/50 20060101 G06F017/50
+Foreign Application Data
+Date	Code	Application Number
+Dec 25, 2008	JP	2008-330112
+Claims
+
+
+1. A design support apparatus comprising: an extractor to extract a set of adjacent macro cells from layout data to provide a layout in which macro cells are arranged and power supply wirings are formed at certain intervals in each wiring layer; a specifying unit to specify a region located between macro cells that constitute the set of adjacent macro cells extracted by the extractor from among row regions included in the layout represented by the layout data; a detecting unit to detect a power supply wiring of a specific wiring layer in a projection area located above the region specified by the specifying unit, the specific wiring layer being higher than a bottom layer of the layout represented by the layout data; and an output unit to output a region where no power supply wiring of the specific wiring layer is detected by the detecting unit. 
+
+2. A design support apparatus comprising: a specifying unit to specify a wiring layer to be connected to each of macro cells included in layout data to provide a layout in which macro cells are arranged and power supply wirings are formed at certain intervals in each wiring layer; an extracting unit to extract a macro cell from among the macro cells included in the layout data, the macro cell being a macro cell where no power supply wiring of a wiring layer specified by the specifying means to be connected to the macro cell is formed in a projection area located above the macro cell; a detecting unit to detect a set of power supply wirings between which the extracted macro cell is located from among power supply wirings of the wiring layer specified to be connected to the macro cell; and an output unit to output a detection result obtained by the detecting unit.

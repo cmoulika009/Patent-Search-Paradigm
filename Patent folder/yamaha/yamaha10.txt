@@ -1,0 +1,43 @@
+WATER JET PROPULSION BOAT ...
+
+Abstract
+A water jet propulsion boat includes a main chamber rib dividing the inside of an oil pan into a main chamber ...where an oil suction port of an oil suction tube is arranged, and an auxiliary chamber outside of the main chamber. The main chamber rib covers the oil suction port at least from the front side and from the left and right sides of the oil suction port. The main chamber rib projects upward from the floor of the oil pan. An opening through which oil passes is provided in the main chamber rib only rearward of a rear edge of the oil suction port. The main chamber and the auxiliary chamber communicate with each other through the opening.
+
+Inventors:	YAMAZAKI; Susumu; (Shizuoka, JP) ; MIWA; Junya; (Shizuoka, JP)
+Assignee:	Yamaha Hatsudoki Kabushiki Kaisha
+Iwata-shi
+JP
+
+Serial No.:	253094
+Series Code:	13
+Filed:	October 5, 2011
+Current U.S. Class:	440/88L
+Class at Publication:	440/88.L
+International Class:	B63H 21/38 20060101 B63H021/38; B63H 11/04 20060101 B63H011/04
+Foreign Application Data
+Date	Code	Application Number
+Jan 25, 2011	JP	2011-012885
+Claims
+
+
+1. A water jet propulsion boat comprising: a watercraft body; an engine accommodated in the watercraft body; and a jet pump section driven by the engine; wherein the engine includes: a crankshaft; a crankcase arranged to support the crankshaft; an oil pan arranged below the crankcase; an oil suction tube including an oil suction port arranged inside the oil pan; an oil pump arranged to draw oil from the oil suction port, the oil pump being connected to the oil suction tube; a main chamber rib arranged to divide an interior of the oil pan into a main chamber where the oil suction port is located and an auxiliary chamber outside of the main chamber, the main chamber rib covering the oil suction port from at least a front side and left and right sides of the oil suction port, and projecting upward from a floor of the oil pan; and a first opening through which oil passes provided in the main chamber rib at a location only rearward from a rear edge of the suction port of the oil suction tube; wherein the main chamber and the auxiliary chamber communicate with each other through the first opening. 
+
+2. The water jet propulsion boat according to claim 1, wherein left and right edges of the first opening are located transversely inward of left and right edges of the main chamber rib. 
+
+3. The water jet propulsion boat according to claim 1, wherein the main chamber rib includes a rear surface portion to cover the oil suction port from a rear side of the oil suction port, and the first opening is provided in the rear surface portion. 
+
+4. The water jet propulsion boat according to claim 3, wherein a second opening is further provided in the rear surface portion so as to be in a line in a transverse direction of the water jet propulsion boat relative to the first opening, and the water jet propulsion boat further comprises a longitudinal rib arranged between the first and second openings and extending rearward from the main chamber rib. 
+
+5. The water jet propulsion boat according to claim 1, further comprising left and right transverse ribs arranged rearward of the main chamber rib and extending transversely inward from left and right inner walls of the oil pan. 
+
+6. The water jet propulsion boat according to claim 5, further comprising a lid member covering an area above the main chamber and extending rearward to a location above a space between the main chamber rib and the left and right transverse ribs. 
+
+7. The water jet propulsion boat according to claim 1, wherein the suction port is arranged rearward of a center of the main chamber in a longitudinal direction of the water jet propulsion boat. 
+
+8. The water jet propulsion boat according to claim 1, wherein the floor of the main chamber is tilted upward as it extends rearward. 
+
+9. The water jet propulsion boat according to claim 1, wherein a central portion of the floor of the oil pan in a transverse direction of the water jet propulsion boat is lower than edges of the floor of the oil pan in the transverse direction, and the suction port is arranged above the central portion of the floor of the oil pan in the transverse direction. 
+
+10. The water jet propulsion boat according to claim 1, wherein the main chamber rib is spaced from inner walls of the oil pan in both a transverse direction and a longitudinal direction of the water jet propulsion boat. 
+
+11. The water jet propulsion boat according to claim 1, wherein a bottom edge of the first opening is located higher than the floor of the main chamber.

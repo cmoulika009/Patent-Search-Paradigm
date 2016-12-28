@@ -1,0 +1,36 @@
+RIDER CHARACTERISTIC DETERMINING APPARATUS, AND A SADDLE RIDING TYPE VEHICLE HAVING THE SAME ...
+
+Abstract
+A rider characteristic determining apparatus capable of determining characteristics of a rider controlling a saddle riding type vehicle,... and a saddle riding type vehicle including the same, are configured such that the rider's characteristics are determined from a turning movement of the saddle riding type vehicle which reflects results of the rider controlling the saddle riding type vehicle. This enables a stable characteristic determination regardless of individual operation or control by the rider. Further, a turning performance score of the vehicle is calculated based on at least one of vehicle state amounts of a roll direction, a pitch direction and a caster angle which influence the steering angle of the saddle riding type vehicle. This enables a proper evaluation of the turning characteristic of the saddle riding type vehicle.
+
+Inventors:	Yoneta; Keisuke; (Shizuoka, JP) ; Daimoto; Hiroshi; (Shizuoka, JP) ; Yamamoto; Atsuo; (Shizuoka, JP)
+Assignee:	YAMAHA HATSUDOKI KABUSHIKI KAISHA
+Iwata-shi, Shizuoka
+JP
+
+Serial No.:	518444
+Series Code:	13
+Filed:	November 22, 2010
+PCT Filed:	November 22, 2010
+PCT NO:	PCT/JP2010/006830
+371 Date:	June 22, 2012
+Current U.S. Class:	701/1
+Class at Publication:	701/1
+International Class:	G06F 7/00 20060101 G06F007/00
+Foreign Application Data
+Date	Code	Application Number
+Dec 25, 2009	JP	2009-295389
+Claims
+
+
+1-17. (canceled) 
+
+18. A rider characteristic determining apparatus for determining control characteristics of a rider controlling a saddle riding type vehicle, the rider characteristic determining apparatus comprising: a first vehicle state detector that detects at least one of a yaw rate and a yaw angle of the saddle riding type vehicle; a turning movement discriminating unit that discriminates a section where the saddle riding type vehicle has made a turning movement; a second vehicle state detector that detects at least one of a roll rate, a roll angle, a pitch rate, a pitch angle, and a caster angle of the saddle riding type vehicle; a component separating unit that separates detection values detected by the first vehicle state detector and the second vehicle state detector in the turning movement section discriminated by the turning movement discriminating unit, into adjustment components that are high-frequency band components higher than a threshold frequency set beforehand, and prediction components that are low-frequency band components lower than the threshold frequency; a vehicle stability characteristic determining unit that determines a vehicle stability characteristic of the saddle riding type vehicle; and a turning characteristic determining unit that determines a turning characteristic of the saddle riding type vehicle; wherein the vehicle stability characteristic determining unit includes a vehicle stability score calculating unit that calculates a vehicle stability score of the saddle riding type vehicle based on a ratio between the adjustment components and the prediction components separated from the detection value of the first vehicle state detector by the component separating unit; and the turning characteristic determining unit includes a turning performance score calculating unit that calculates a turning performance score of the saddle riding type vehicle based on the prediction components separated from the detection value of the second vehicle state detector by the component separating unit. 
+
+19. The rider characteristic determining apparatus according to claim 18, wherein the turning movement discriminating unit discriminates the section where the saddle riding type vehicle has made the turning movement based on at least one of the yaw rate, the yaw angle, the roll rate, the roll angle, a steering angle, and a GPS track. 
+
+20. The rider characteristic determining apparatus according to claim 18, wherein: the vehicle stability characteristic determining unit includes a vehicle stability score comparing unit that determines the vehicle stability characteristic by comparing the vehicle stability score with a criterion value of the vehicle stability characteristic; and the turning characteristic determining unit includes a turning performance score comparing unit that determines the turning characteristic by comparing the turning performance score with a criterion value of the turning characteristic. 
+
+21. The rider characteristic determining apparatus according to claim 18, wherein the vehicle stability score calculating unit calculates the vehicle stability score based on a ratio between the adjustment components and the prediction components separated from the detection values of the first vehicle state detector and the second vehicle state detector by the component separating unit. 
+
+22. The rider characteristic determining apparatus according to claim 18, further comprising a steering angle sensor that detects a steering angle; wherein the component separating unit separates into the adjustment components and the prediction components a detection value detected by the steering angle sensor in the turning movement section discriminated by the turning movement discriminating unit; and the turning performance score calculating unit calculates the turning performance score based on the prediction components separated from the detection values of the second vehicle state detector and the steering angle sensor by the component separating unit. 

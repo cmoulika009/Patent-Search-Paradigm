@@ -1,0 +1,40 @@
+ROLL ANGLE ESTIMATION DEVICE AND TRANSPORT EQUIPMENT ...
+
+Abstract
+A Kalman filter in a roll angle estimation device estimates a roll angle of a vehicle body, a vehicle speed,... a roll angular velocity sensor offset, a yaw angular velocity sensor offset, and a vertical acceleration sensor offset on the basis of detected values of a roll angular velocity sensor, a yaw angular velocity sensor, a vertical acceleration sensor, a longitudinal acceleration sensor, a lateral acceleration sensor, and a rear-wheel speed sensor, and also on the basis of estimated values of the roll angle, the vehicle speed, the roll angular velocity sensor offset, the yaw angular velocity sensor offset, and the vertical acceleration sensor offset obtained in a previous estimation operation.
+
+Inventors:	Inoue; Hiroyuki; (Shizuoka, JP) ; Fujii; Takahiro; (Shizuoka, JP) ; Seki; Yoshimichi; (Shizuoka, JP)
+Assignee:	YAMAHA HATSUDOKI KABUSHIKI KAISHA
+Iwata-shi, Shizuoka
+JP
+
+Serial No.:	518060
+Series Code:	13
+Filed:	November 10, 2010
+PCT Filed:	November 10, 2010
+PCT NO:	PCT/JP2010/006588
+371 Date:	June 21, 2012
+Current U.S. Class:	701/70
+Class at Publication:	701/70
+International Class:	G06F 19/00 20110101 G06F019/00
+Foreign Application Data
+Date	Code	Application Number
+Dec 21, 2009	JP	2009-288836
+Claims
+
+
+1-10. (canceled) 
+
+11. A roll angle estimation device that estimates a roll angle of a movable object, the roll angle estimation device comprising: first and second angular velocity detectors that detect first and second angular velocities, respectively, about first and second axes extending in at least two directions different from each other; first, second, and third acceleration detectors that detect first, second, and third accelerations, respectively, in at least three directions different from one another; a speed information detector that detects information regarding a moving speed in a traveling direction of the movable object; and an estimator that estimates the roll angle of the movable object and also estimates an offset error of at least one of the first and second angular velocity detectors and the first, second, and third acceleration detectors; wherein the estimator estimates the roll angle of the movable object and the at least one offset error in a current estimation operation on the basis of detected values of the first and second angular velocity detectors, detected values of the first, second, and third acceleration detectors, a detected value of the speed information detector, an estimated value of the roll angle obtained in a previous estimation operation, and an estimated value of the offset error obtained in the previous estimation operation. 
+
+12. The roll angle estimation device according to claim 11, wherein the first and second angular velocity detectors respectively detect the first and second angular velocities about the first and second axes extending in two directions different from each other, and the first, second, and third acceleration detectors respectively detect the first, second, and third accelerations in three directions different from one another. 
+
+13. The roll angle estimation device according to claim 11, wherein the estimator estimates an offset error of at least one of the first and second angular velocity detectors as the at least one offset error. 
+
+14. The roll angle estimation device according to claim 11, wherein the estimator estimates offset errors of the first and second angular velocity detectors as the at least one offset error. 
+
+15. The roll angle estimation device according to claim 14, wherein the estimator further estimates an offset error of at least one of the first, second, and third acceleration detectors as the at least one offset error. 
+
+16. The roll angle estimation device according to claim 15, wherein the first acceleration is an acceleration in an up-and-down direction of the movable object, and the estimator estimates the offset error of the first acceleration detector. 
+
+17. The roll angle estimation device according to claim 11, wherein the movable object includes a front wheel and a rear wheel; the speed information detector includes a rear-wheel rotational speed detector that detects a rotational speed of the rear wheel as the information; and the estimator estimates a moving speed of the movable object, and estimates the roll angle of the movable object, the at least one offset error, and the moving speed of the movable object in the current estimation operation on the basis of the detected values of the first and second angular velocity detectors, the detected values of the first, second, and third acceleration detectors, a detected value of the rear-wheel speed detector, the estimated value of the roll angle obtained in the previous estimation operation, the estimated value of the offset error obtained in the previous estimation operation, and an estimated value of the moving speed obtained in the previous estimation operation. 

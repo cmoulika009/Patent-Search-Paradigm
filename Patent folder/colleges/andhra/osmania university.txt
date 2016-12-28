@@ -1,0 +1,8 @@
+College name:  osmania university
+
+Address: 
+Shivam Road, Prashanti Nagar, Nallakunta, Hyderabad, Andhra Pradesh 500007
+
+Available courses: B.tech,M.Tech,BCA,M.Sc,B.Ed
+
+Website: www.osmania.ac.in

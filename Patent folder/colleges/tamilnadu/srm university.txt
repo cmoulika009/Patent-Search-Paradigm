@@ -1,0 +1,10 @@
+College name:  srm university
+
+Address: 
+Near SRM University,
+Potheri,Kattankulathur,
+Chennai,Tamil Nadu 603203
+
+Available courses: B.tech,B.Arch,M.B.B.S,B.Sc,B.Pharm,M.B.A,B.Ed
+
+Website:www.srmuniv.ac.in

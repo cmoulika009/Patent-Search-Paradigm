@@ -1,0 +1,30 @@
+Digital Netlist Partitioning System For Faster Circuit Reverse-Engineering ...
+
+Abstract
+Methods and systems are provided to reduce the complexity of sequential digital circuitry including cells of unknown function by grouping and defining like instance of combinational circuitry cells. The system groups together cells that feed into the same combination of one or more state cells. The groups of cells are then replaced by clouds which are defined in the netlist for the sequential digital circuitry to produce a simpler representation of the circuitry for analysis purposes and to aid in determining the function of those cells for which the function is unknown.
+
+Inventors:	Green; Michael; (Ottawa, CA)
+Assignee:	CHIPWORKS, INCORPORATED
+Ottawa
+CA
+
+Serial No.:	083534
+Series Code:	13
+Filed:	April 9, 2011
+Current U.S. Class:	716/103
+Class at Publication:	716/103
+International Class:	G06F 17/50 20060101 G06F017/50
+Claims
+
+
+1. A method of reducing complexity of a digital circuit comprising: providing circuitry for analysis comprising a plurality of cells; categorizing one or more of the plurality of cells as either a combinational cell or a state cell, wherein the plurality of cells comprise a plurality of combinational cells and a plurality of state cells; identifying a first combinational cell group among the plurality of combinational cells that each affect a same portion of the plurality of state cells; and replacing the first combinational cell group with a first cloud. 
+
+2. The method of claim 1, further comprising: identifying a plurality of buffers within said plurality of cells; and replacing said plurality of buffers with a single buffer cell. 
+
+3. The method of claim 2, wherein the identifying of said plurality buffers is based on identifying cells having only a single input and a single output. 
+
+4. The method of claim 1, wherein the providing of the circuitry comprises: selecting the circuitry from a netlist that characterizes said digital circuit. 
+
+5. The method of claim 4, wherein the netlist is an original netlist, the method further comprising: including said first cloud in a reduced size netlist smaller than said original netlist that characterizes said digital circuit; wherein the first cloud replaces the first combinational cell group in said reduced size netlist. 
+
+6. The method of claim 1, wherein said plurality of cells includes at least some cells of unknown function, the method further comprising: using a reduced size netlist to analyze circuitry functions of said digital circuit for determining a function of said at least some cells of unknown function. 

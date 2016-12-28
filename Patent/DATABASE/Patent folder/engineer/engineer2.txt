@@ -1,0 +1,44 @@
+PLANTS AND SEEDS OF SPRING CANOLA VARIETY ND-662c ...
+
+Abstract
+In an embodiment, the invention relates to the seeds, plants, and plant parts of canola line ND-662c and to methods for producing a canola plant produced by crossing canola line ND-662c with itself or with another canola line. The invention also relates to methods for producing a canola plant containing in its genetic material one or more transgenes and to the transgenic canola plants and plant parts produced by those methods. This invention also relates to canola lines or breeding lines and plant parts derived from canola line ND-662c, to methods for producing other canola lines, lines or plant parts derived from canola line ND-662c and to the canola plants, varieties, and their parts derived from use of those methods. The invention further relates to hybrid canola seeds, plants and plant parts produced by crossing the line ND-662c with another canola line.
+
+Inventors:	Lisieczko; Zenon; (Guelph, CA)
+Assignee:	MONSANTO TECHNOLOGY LLC
+St. Louis
+MO
+
+Serial No.:	082077
+Series Code:	13
+Filed:	April 7, 2011
+Current U.S. Class:	800/263; 426/629; 426/630; 435/410; 530/377; 554/9; 800/260; 800/264; 800/265; 800/300; 800/301; 800/302; 800/303; 800/306
+Class at Publication:	800/263; 800/306; 435/410; 800/260; 800/303; 800/300; 800/302; 800/301; 554/9; 530/377; 800/265; 800/264; 426/629; 426/630
+International Class:	A01H 5/00 20060101 A01H005/00; C12N 5/04 20060101 C12N005/04; A01H 1/02 20060101 A01H001/02; A23D 9/00 20060101 A23D009/00; C07K 2/00 20060101 C07K002/00; A01H 1/04 20060101 A01H001/04; A23L 1/36 20060101 A23L001/36; A23K 1/00 20060101 A23K001/00; A01H 5/10 20060101 A01H005/10; C11B 1/00 20060101 C11B001/00
+Claims
+
+
+1. A seed of canola line ND-662c, representative sample of seed of which was deposited under ATCC Accession No. PTA-11594. 
+
+2. A canola plant, or a part thereof, produced by growing the seed of claim 1. 
+
+3. A tissue culture produced from protoplasts or cells from the plant of claim 2, wherein said cells or protoplasts of the tissue culture are produced from a plant part selected from the group consisting of leaf, pollen, embryo, cotyledon, hypocotyl, meristematic cell, root, root tip, anther, pistil, flower, shoot, stem, petiole and pod. 
+
+4. A canola plant regenerated from the tissue culture of claim 3, wherein the plant has essentially all of the morphological and physiological characteristics of line ND-662c as shown in Table 1. 
+
+5. A composition comprising a seed or plant part of canola line ND-662c and a cultivation medium, wherein a representative sample of seed of canola line ND-662c has been deposited under ATCC Accession No. PTA-11594. 
+
+6. The composition of claim 5, wherein the cultivation medium is soil or a synthetic medium. 
+
+7. A canola seed produced by crossing two canola plants and harvesting the resultant canola seed, wherein at least one canola plant is the canola plant of claim 2. 
+
+8. A canola plant, or a part thereof, produced by growing said seed of claim 7. 
+
+9. A method of producing a male sterile canola plant wherein the method comprises crossing the canola plant of claim 2 with a male sterile canola plant and harvesting the resultant seed. 
+
+10. A male sterile canola plant produced by transforming the canola plant of claim 2 with a nucleic acid molecule that confers male sterility. 
+
+11. An herbicide resistant canola plant produced by transforming the canola plant of claim 2 with a transgene that confers herbicide resistance to an herbicide selected from the group consisting of imidazolinone, sulfonylurea, glyphosate, glufosinate, 2,4-D, Dicamba, L-phosphinothricin, triazine, hydroxyphenylpyruvate dioxygenase inhibitor, protoporphyrinogen oxidase inhibitor, phenoxy proprionic acid, cyclohexone and benzonitrile. 
+
+12. An insect or pest resistant canola plant produced by transforming the canola plant of claim 2 with a transgene that confers insect or pest resistance. 
+
+13. The canola plant of claim 12, wherein the transgene encodes a Bacillus thuringiensis endotoxin. 

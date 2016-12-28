@@ -1,0 +1,32 @@
+Compositions and Methods of Use for MGD-CSF in Disease Treatment ...
+
+Abstract
+Disclosed is a newly identified secreted molecule, identified herein as "monocyte, granulocyte, and dendritic cell colony stimulating factor" (MGD-CSF), the polypeptide sequence, and polynucleotides encoding the polypeptide sequence. Also provided is a procedure for producing the polypeptide by recombinant techniques employing, for example, vectors and host cells. Additionally, procedures are described to modify the disclosed novel molecules of the invention to prepare fusion molecules. Also disclosed are methods for using the polypeptides and active fragments thereof for treatment of a variety of diseases, including, for example, cancer, autoimmune and inflammatory diseases, infectious diseases, and recurrent pregnancy loss.
+
+Inventors:	Behrens; Dirk; (San Francisco, CA) ; Bosch; Elizabeth; (San Francisco, CA) ; Doberstein; Stephen K.; (San Francisco, CA) ; Halenbeck; Robert Forgan; (San Francisco, CA) ; Hestir; Kevin; (San Francisco, CA) ; Huang; Min Mei; (San Francisco, CA) ; Lee; Ernestine; (San Francisco, CA) ; Lin; Haishan; (San Francisco, CA) ; Linnemann; Thomas; (San Francisco, CA) ; Marshall; Shannon; (San Francisco, CA) ; Wong; Justin G. P.; (San Francisco, CA) ; Wu; Ge; (La Canada, CA) ; Zhou; Aileen; (San Francisco, CA) ; Leo; Cindy; (San Francisco, CA) ; Williams; Lewis T.; (San Francisco, CA)
+Assignee:	Five Prime Therapeutics Inc.
+
+Serial No.:	446254
+Series Code:	13
+Filed:	April 13, 2012
+Current U.S. Class:	424/85.1; 530/363; 530/380; 530/387.3; 530/397
+Class at Publication:	424/85.1; 530/397; 530/363; 530/380; 530/387.3
+International Class:	A61K 38/19 20060101 A61K038/19; C07K 17/02 20060101 C07K017/02; A61P 35/00 20060101 A61P035/00; A61P 37/00 20060101 A61P037/00; A61P 31/00 20060101 A61P031/00; C07K 17/00 20060101 C07K017/00; C07K 19/00 20060101 C07K019/00
+Claims
+
+
+1.-139. (canceled) 
+
+140. A molecule comprising: (a) a polypeptide comprising an amino acid sequence that is at least 95% identical to the amino acid sequence of SEQ ID NO:9, and (b) a fusion partner; wherein the molecule increases the number of monocytes in a mouse model of monocyte proliferation. 
+
+141. The molecule of claim 140, wherein the molecule comprises the amino acid sequence of SEQ ID NO:9 and a fusion partner. 
+
+142. The molecule of claim 140, wherein the fusion partner is a succinyl group. 
+
+143. The molecule of claim 140, wherein the fusion partner is a polymer or a second polypeptide. 
+
+144. The molecule of claim 143, wherein the fusion partner is a polymer and the polymer is polyethylene glycol. 
+
+145. The molecule of claim 143, wherein the fusion partner is a second polypeptide and the second polypeptide is a serum albumin, a fetuin A, a fetuin B, a leucine zipper domain, a tetranectin trimerization domain, a mannose binding protein, or an Fc. 
+
+146. The molecule of claim 145, wherein the fusion partner is an Fc. 

@@ -1,0 +1,2 @@
+javac Servlet\*.java
+pause

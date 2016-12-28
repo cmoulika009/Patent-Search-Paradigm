@@ -1,0 +1,44 @@
+APPARATUS AND METHOD FOR EXCHANGING DATA BETWEEN AUTOMOBILE HEAD UNIT AND MOBILE DEVICE ...
+
+Abstract
+A unified data exchange method between an automobile head unit and a mobile device is provided, in which the automobile head unit directly provides a web user interface to the mobile device or drives a mobile application of the mobile device to provide a user interface when the automobile head unit does not provide the web user interface. Further, in the data exchange method, a user interface is dynamically provided from a third user interface server connected to the mobile device.
+
+Inventors:	PARK; Ho-Yeon; (Seoul, KR)
+Assignee:	Samsung Electronics Co., Ltd.
+Gyeonggi-do
+KR
+
+Serial No.:	440468
+Series Code:	13
+Filed:	April 5, 2012
+Current U.S. Class:	709/217
+Class at Publication:	709/217
+International Class:	G06F 15/16 20060101 G06F015/16
+Foreign Application Data
+Date	Code	Application Number
+Apr 5, 2011	KR	10-2011-0031424
+Apr 22, 2011	KR	10-2011-0038066
+Claims
+
+
+1. A method for exchanging data with a control device by a control point device, the method comprising: making a request for a service list to the control device when the control device is discovered; receiving the service list including information on whether a web application for at least one service is provided from the control device; when a service in the service list is selected, determining whether the control device is capable of providing a web application for the selected service; when the control device is capable of providing the web application for the selected service, making a request for the web application for the selected service to the control device through a web browser; and executing the web application received from the control device. 
+
+2. The method as claimed in claim 1, wherein the control point device and the control device are a mobile device and an automobile head unit, respectively. 
+
+3. The method as claimed in claim 1, wherein the service list contains at least one of an ID of the at least one service, a name of the at least one service, and a URL address accessible to the web application for the at least one service. 
+
+4. The method as claimed in claim 3, wherein making the request for the web application comprises: driving the web browser when the service list is received; extracting a URL address accessible to the web application for the selected service from the service list; and making a request for the web application for the selected service to a web server of the control device through the web browser by using information on the extracted URL address. 
+
+5. The method as claimed in claim 1, wherein, in making the request for the service list, the request for the service list is transferred to the control device through a UPnP stack included in the control point device. 
+
+6. The method as claimed in claim 1, further comprising communicating with a web server of the control device through the web application. 
+
+7. The method as claimed in claim 1, further comprising: when the control point device is not capable of receiving the web application for the selected service from the control device, executing a native application related to the selected service; making a request for a native application UI for communicating with a web server of the control device through the native application to a UI server; and when the native application UI is received from the UI server, rendering the native application UI and making an instruction for driving of a communication module of the control device through the native application. 
+
+8. The method as claimed in claim 7, further comprising, after rendering of the native application UI, communicating with the web server through the communication module within the control device. 
+
+9. The method as claimed in claim 7, wherein the instruction includes a service ID of the selected service. 
+
+10. The method as claimed in claim 7, further comprising transmitting a message for termination of the driving of the communication module of the control device, the message including a service ID of a service to be terminated in response to a request for termination of the service. 
+
+11. A control point device for exchanging data with a control device, the control point device comprising: a UPnP stack for discovering a neighboring control device, making a request for a service list to the control device when the neighboring control device is discovered, and receiving the service list including information on whether a web application for at least one service is provided from the control device; and a web browser for receiving the service list from the UPnP stack, determining if the web application for the at least one service selected in the service list can be provided, making a request for the web application for the selected service to the control device, and executing the web application received from the control device. 

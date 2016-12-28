@@ -1,0 +1,35 @@
+Keyboard Musical Instrument, Program, Performance Data Conversion Program and Device ...
+
+Abstract
+A keyboard musical instrument, including: keys; a pedal; an input portion configured to input performance data... including tone generation control data that specifies generation and halt of a musical tone and pedal control data that specifies a depression depth of the pedal; a drive portion configured to drive the pedal; and a controller configured to control the drive portion on the basis of the pedal control data in the performance data inputted by the input portion, wherein the controller is configured to control the drive portion such that, where the depression depth of the pedal exceeds a first depth by controlling the drive portion, the pedal is located at a third depth that is shallower than a second depth after the pedal has reached the second depth that is deeper than the first depth.
+
+Inventors:	Oba; Yasuhiko; (Hamamatsu-shi, JP) ; Kanehara; Akinori; (Hamamatsu-shi, JP)
+Assignee:	Yamaha Corporation
+Hamamatsu-shi
+JP
+
+Serial No.:	439291
+Series Code:	13
+Filed:	April 4, 2012
+Current U.S. Class:	84/746
+Class at Publication:	84/746
+International Class:	G10C 3/26 20060101 G10C003/26
+Foreign Application Data
+Date	Code	Application Number
+Apr 5, 2011	JP	2011-083557
+Claims
+
+
+1. A keyboard musical instrument, comprising: keys; a pedal; an input portion configured to input performance data including tone generation control data that specifies generation and halt of a musical tone and pedal control data that specifies a depression depth of the pedal; a drive portion configured to drive the pedal; and a controller configured to control the drive portion on the basis of the pedal control data in the performance data inputted by the input portion, wherein the controller is configured to control the drive portion such that, where the depression depth of the pedal exceeds a first depth by controlling the drive portion, the pedal is located at a third depth that is shallower than a second depth after the pedal has reached the second depth that is deeper than the first depth. 
+
+2. The keyboard musical instrument according to claim 1, wherein the controller is configured to control the drive portion by determining a target position of the pedal on the basis of the pedal control data and to continue a control in which the target position of the pedal is set at the third depth until the target position becomes shallower than the third depth when the controller controls the drive portion such that the pedal is located at the third depth after the pedal has reached the second depth. 
+
+3. The keyboard musical instrument according to claim 1, wherein both of the first depth and the third depth are deeper than any depression depth of the pedal in a half pedal region. 
+
+4. The keyboard musical instrument according to claim 1, wherein the pedal is a damper pedal. 
+
+5. The keyboard musical instrument according to claim 4, further comprising: strings configured to be struck by depression of keys; dampers configured to be selectively placed in a contact state in which the dampers are in contact with the strings and a spaced state in which the dampers are spaced apart from the strings; and a damper mechanism configured to move the dampers from the contact state to the spaced state as the depression depth of the damper pedal becomes deeper, wherein the first depth is a depth that is the same as or deeper than the depression depth of the damper pedal in a state in which the dampers are in the contact state and the depression depth of the damper pedal is the deepest, and wherein the third depth is deeper than the first depth. 
+
+6. The keyboard musical instrument according to claim 4, further comprising: strings configured to be struck by depression of keys; dampers configured to be selectively placed in a contact state in which the dampers are in contact with the strings and a spaced state in which the dampers are spaced apart from the strings; and a damper mechanism configured to move the dampers from the contact state to the spaced state as the depression depth of the damper pedal becomes deeper, wherein each of the second depth and the third depth is the depression depth of the damper pedal in a state in which the dampers are in the spaced state. 
+
+7. A storage medium in which is stored a program which permits a computer to execute a control of a keyboard musical instrument including a drive portion configured to drive a pedal, wherein the program comprises: an input step of inputting performance data including tone generation control data that specifies generation and halt of a musical tone and pedal control data that specifies a depression depth of the pedal; and a control step of controlling the drive portion on the basis of the pedal control data in the performance data inputted in the input step, wherein the control step controls the drive portion such that, where the depression depth of the pedal exceeds a first depth by controlling the drive portion, the pedal is located at a third depth that is shallower than a second depth after the pedal has reached the second depth that is deeper than the first depth. 

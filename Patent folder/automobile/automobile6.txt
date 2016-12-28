@@ -1,0 +1,34 @@
+AUTOMATED AUDIO OR VIDEO SUBSET NETWORK LOAD REDUCTION ...
+
+Abstract
+A multimedia data stream including an audio data stream and a video data stream is received from a server at a computing device. An audio output signal for the audio data stream and a video output signal for the video data stream are generated. A user interface action that blocks output of one of the audio data stream and the video data stream is detected via the computing device. A multimedia traffic reduction request is sent to the server instructing the server to stop transmission of a portion of the multimedia data stream associated with the blocked output of one of the audio data stream and the video data stream.
+
+Inventors:	Bhogal; Kulvir S.; (Pflugerville, TX) ; Griffith; William A.; (Austin, TX) ; Talbot; Mark W.; (Austin, TX)
+Assignee:	INTERNATIONAL BUSINESS MACHINES CORPORATION
+Armonk
+NY
+
+Serial No.:	528336
+Series Code:	13
+Filed:	June 20, 2012
+Current U.S. Class:	715/716; 709/231
+Class at Publication:	715/716; 709/231
+International Class:	G06F 3/01 20060101 G06F003/01; G06F 15/16 20060101 G06F015/16
+Claims
+
+
+1. A method, comprising: receiving, at a computing device, a multimedia data stream comprising an audio data stream and a video data stream from a server; generating an audio output signal for the audio data stream and a video output signal for the video data stream; detecting, via the computing device, a user interface action that blocks output of one of the audio data stream and the video data stream; and sending a multimedia traffic reduction request to the server instructing the server to stop transmission of a portion of the multimedia data stream associated with the blocked output of the one of the audio data stream and the video data stream. 
+
+2. The method of claim 1, further comprising: receiving, in response to the multimedia traffic reduction request, a subset of the multimedia data stream comprising only an unblocked subset of the multimedia data stream other than the portion of the multimedia data stream associated with the blocked output of the one of the audio data stream and the video data stream; and generating only the one of the audio output signal and the video output signal associated with the unblocked subset of the multimedia data stream. 
+
+3. The method of claim 1, further comprising: detecting a use event associated with the blocked output of the one of the audio data stream and the video data stream; sending a multimedia traffic increase request to the server instructing the server to begin transmission of the portion of the multimedia data stream associated with the blocked output of the one of the audio data stream and the video data stream; receiving, in response to the multimedia traffic increase request, the multimedia data stream comprising both of the audio data stream and the video data stream; and restarting generation of the one of the audio output signal and the video output signal associated with the blocked output of the one of the audio data stream and the video data stream. 
+
+4. The method of claim 3, where: the multimedia traffic reduction request comprises one of a NOAUDIO command and a NOVIDEO command; and the multimedia traffic increase request comprises one of a AUDIONOW command and a VIDEONOW command. 
+
+5. The method of claim 1, further comprising: prompting a user, via a display associated with the computing device, in response to detection of the user interface action that blocks the output of the one of the audio data stream and the video data stream, with an inquiry for reduction of the multimedia data stream; and detecting a user input instructing the computing device to reduce the multimedia data stream. 
+
+6. A system, comprising: a communication module; and a processor programmed to: receive, via the communication module, a multimedia data stream comprising an audio data stream and a video data stream from a server; generate an audio output signal for the audio data stream and a video output signal for the video data stream; detect a user interface action that blocks output of one of the audio data stream and the video data stream; and send a multimedia traffic reduction request to the server instructing the server to stop transmission of a portion of the multimedia data stream associated with the blocked output of the one of the audio data stream and the video data stream. 
+
+7. The system of claim 6, where the processor is further programmed to: receive, in response to the multimedia traffic reduction request, a subset of the multimedia data stream comprising only an unblocked subset of the multimedia data stream other than the portion of the multimedia data stream associated with the blocked output of the one of the audio data stream and the video data stream; and generate only the one of the audio output signal and the video output signal associated with the unblocked subset of the multimedia data stream. 
+
+8. The system of claim 6, where the processor is further programmed to: detect a use event associated with the blocked output of the one of the audio data stream and the video data stream; send a multimedia traffic increase request to the server instructing the server to begin transmission of the portion of the multimedia data stream associated with the blocked output of the one of the audio data stream and the video data stream; receive, in response to the multimedia traffic increase request, the multimedia data stream comprising both of the audio data stream and the video data stream; and restart generation of the one of the audio output signal and the video output signal associated with the blocked output of the one of the audio data stream and the video data stream. 

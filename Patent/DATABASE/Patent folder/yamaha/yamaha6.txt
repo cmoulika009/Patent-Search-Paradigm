@@ -1,0 +1,49 @@
+MOTORCYCLE ...
+
+
+Abstract
+A motorcycle sets a target slip value based on an accelerator operation by a driver,... and prevents a significant decrease in the output torque of the drive power source during execution of traction control to provide a comfortable ride. The motorcycle includes a target slip value calculating section that calculates a target slip value, based on an accelerator operation by a driver; and an actual slip value calculating section that calculates an actual slip value, based on the difference between the rotation speed of the front wheel and the rotation speed of the rear wheel. The motorcycle further includes a drive power source controller arranged and programmed to reduce the output torque of the drive power source, based on the difference between a criterion value different from the target slip value and the actual slip value when the actual slip value is lower than the target slip value.
+
+Inventors:	Kinoshita; Tomohiro; (Shizuoka, JP) ; Fujita; Hirokazu; (Shizuoka, JP)
+Assignee:	YAMAHA HATSUDOKI KABUSHIKI KAISHA
+Iwata-shi, Shizuoka
+JP
+
+Serial No.:	514298
+Series Code:	13
+Filed:	November 30, 2010
+PCT Filed:	November 30, 2010
+PCT NO:	PCT/JP2010/071343
+371 Date:	June 7, 2012
+Current U.S. Class:	701/71
+Class at Publication:	701/71
+International Class:	F02D 29/02 20060101 F02D029/02
+Foreign Application Data
+Date	Code	Application Number
+Dec 10, 2009	JP	2009-281005
+Claims
+
+
+1-11. (canceled) 
+
+12. A motorcycle comprising: a target slip value calculating section that calculates a target slip value based on an accelerator operation performed by a driver; an actual slip value calculating section that calculates an actual slip value based on a difference between a rotation speed of a front wheel and a rotation speed of a rear wheel; and a drive power source controller arranged and programmed to reduce an output torque of a drive power source based on a difference between the actual slip value and a criterion value that is different from the target slip value when the actual slip value is lower than the target slip value. 
+
+13. The motorcycle according to claim 12, further comprising: a determining section that determines whether or not the actual slip is higher than a threshold that is lower than the target slip value; wherein the drive power source controller reduces the output torque from the drive power source based on the difference between the criterion value and the actual slip value when the actual slip value is higher than the threshold. 
+
+14. The motorcycle according to claim 13, further comprising a slip threshold calculating section that calculates the threshold based on the accelerator operation by the driver. 
+
+15. The motorcycle according to claim 14, wherein the slip threshold calculating section calculates the threshold based on a change amount of an accelerator opening degree within a predetermined period of time. 
+
+16. The motorcycle according to claim 15, wherein the threshold calculated by the slip threshold calculating section is set as the criterion value. 
+
+17. The motorcycle according to claim 12, wherein the target slip value calculating section calculates the target slip value based on an accelerator opening degree. 
+
+18. The motorcycle according to claim 12, wherein the target slip value calculating section calculates the target slip value based on the rotation speed of the front wheel and the accelerator operation by the driver. 
+
+19. The motorcycle according to claim 12, wherein the drive power source controller includes a determining section that determines whether or not the actual slip value is higher than the target slip value, and reduces the output torque of the drive power source based on a difference between the target slip value and the actual slip value when the actual slip value is higher than the target slip value. 
+
+20. The motorcycle according to claim 12, wherein the drive power source controller calculates a control parameter for the drive power source based on a difference between the actual slip value and the criterion value when the actual slip value is lower than the target slip value, and calculates the control parameter based on the difference between the actual slip value and the criterion value and a difference between the actual slip value and the target slip value when the actual slip value is higher than the target slip value. 
+
+21. The motorcycle according to claim 20, wherein the drive power source controller includes: a first reducing processing section that calculates a first value based on the difference between the actual slip value and the criterion value; and a second reducing processing section that executes integral processing of the difference between the actual slip value and the target slip value to calculate a second value in accordance with an integrated value obtained in the integral processing; and the drive power source controller calculates the control parameter such that the output torque of the drive power source decreases by an amount in accordance with the first value and the second value when the actual slip value is higher than the target slip value. 
+
+22. The motorcycle according to claim 12, wherein the drive power source controller calculates a reduction amount of the output torque of the drive power source based on the difference between the actual slip value and the criterion value, and then calculates a control parameter for the drive power source based on the reduction amount of the output torque.

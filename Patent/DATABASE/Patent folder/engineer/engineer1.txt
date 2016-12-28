@@ -1,0 +1,38 @@
+TRANSGENIC PLANTS EXPRESSING MODIFIED Cry3A ...
+
+Abstract
+Compositions and methods for controlling plant pests are disclosed. In particular, transgenic maize plants comprising nucleic acid molecules encoding modified Cry3A toxins having increased toxicity to western corn rootworm are provided. Such modified Cry3A toxins, into which a non-naturally occurring protease recognition site is inserted, are expressed at levels in transgenic plants to inhibit insect feeding damage and cause insect mortality.
+
+Inventors:	CHEN; Eric; (Chapel Hill, NC) ; Stacy; Cheryl; (Raleigh, NC)
+Assignee:	SYNGENTA PARTICIPATIONS AG
+Basel
+CH
+
+Serial No.:	525413
+Series Code:	13
+Filed:	June 18, 2012
+Current U.S. Class:	800/302
+Class at Publication:	800/302
+International Class:	A01H 5/00 20060101 A01H005/00; A01H 5/10 20060101 A01H005/10
+Claims
+
+
+1. A transgenic plant comprising an isolated nucleic acid molecule that encodes a modified Cry3A toxin comprising a non-naturally occurring protease recognition site, wherein said protease recognition site modifies a Cry3A toxin and is located at a position between amino acids corresponding to amino acid numbers 107 and 113 of SEQ ID NO:4, wherein said protease recognition site is recognizable by a gut protease of western corn rootworm, and wherein said modified Cry3A toxin causes higher mortality to western corn rootworm than the mortality caused by said Cry3A toxin to western corn rootworm in an artificial diet bioassay. 
+
+2. The transgenic plant according to claim 1, wherein said gut protease is a serine protease or a cysteine protease. 
+
+3. The transgenic plant according to claim 1, wherein the protease recognition site is located at a position corresponding to amino acid numbers 107 and 111 of SEQ ID NO:4. 
+
+4. The transgenic plant according to claim 1, wherein said protease recognition site is located between amino acid numbers 107 and 113 of SEQ ID NO:4. 
+
+5. The transgenic plant according to claim 4, wherein said protease recognition site is located between amino acid numbers 107 and 111 of SEQ ID NO:4. 
+
+6. The transgenic plant according to claim 1, wherein the nucleic acid molecule is operably linked to a heterologous promoter sequence. 
+
+7. The transgenic plant according to any of claims 1 to 6, wherein said plant is a maize plant. 
+
+8. Transgenic seed from the transgenic plant of claim 1, wherein said seed comprises the nucleic acid molecule. 
+
+9. Transgenic seed from the maize plant of claim 7, wherein said seed comprises the nucleic acid molecule. 
+
+10. The transgenic maize plant according to claim 7, wherein said maize plant expresses said modified Cry3A toxin in root tissue at a level that causes mortality to at least western corn rootworm. 

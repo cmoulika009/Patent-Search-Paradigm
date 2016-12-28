@@ -1,0 +1,16 @@
+System and Method for Processing Interactive Multimedia Messages ...
+
+Abstract
+An interactive media creator that enables users to obtain media components from multiple sources (including live recording, the cloud, a mobile web site, a local device, personal computer, etc.) and put, edit, mix and organize them into a single interactive multimedia message that can be shared in various formats (email, SMS, streaming, wmv, mp4, etc.) with any other device or location where they play as videos. Transmission of the media and media messages is performed through the use a messaging container format that includes information regarding attributes and storage location of each media component in the message. The message container enables recipients not only to view the created message, but also use, edit, mash, save, synthesize, and/or include any of the individual media components in new messages that can be shared over and over.
+
+Inventors:	Lockhart; Kendall G.; (Laguna Beach, CA)
+Serial No.:	080577
+Series Code:	13
+Filed:	April 5, 2011
+Current U.S. Class:	709/206
+Class at Publication:	709/206
+International Class:	G06F 15/16 20060101 G06F015/16
+Claims
+
+
+1. A method for processing an interactive multimedia message comprising: providing a first multimedia creator interface for creating multimedia messages on a first user device, the multimedia creator interface having a plurality of timelines and enabling a first user to populate the plurality of timelines with a plurality of types of selected media content that are intended to be combined and synchronized into a single resultant video file, receiving an indication that the first user has completed a first multimedia message, the first multimedia message having a set of media components populated in the plurality of timelines; assigning a unique message ID to the completed multimedia message; identifying a storage location for each of the set of media components; generating a message container for the completed multimedia message, the message container including the unique message ID, information identifying the storage location of each of the set of media components, and information identifying a position of each of the set of multimedia components within the plurality of timelines; sending a message signal to at least a second user, the message signal including information identifying the message container associated with the first multimedia message; and in a second multimedia creator interface operating on a second user device, populating a plurality of timelines with the set of media components based on the information in the message container and enabling the second user to at least one of save, edit, and use in a new multimedia message each of the multimedia components. 

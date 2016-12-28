@@ -1,0 +1,32 @@
+Visualization Tools for Reviewing Credibility and Stateful Hierarchical Access to Credibility ...
+
+Abstract
+Some embodiments provide a credibility system including an interface portal for presenting a holistic view of entity credibility. To provide the holistic view, the credibility system aggregates credibility data from multiple data sources. The aggregated credibility data is processed and ordered to present different dimensions of entity credibility, with each dimension graphically presented in the interface portal through an interactive credibility module. In some embodiments, the credibility data associated with each credibility module is processed to produce at least one value that quantifiably represents the credibility data. In some embodiments, the credibility data associated with each credibility module is hierarchically ordered to present the credibility data in a drill-down fashion with each hierarchical layer presenting more detailed credibility data for better understanding the credibility data presented in the preceding layer.
+
+Inventors:	Stibel; Aaron B.; (Malibu, CA) ; Hackett; Judith Gentile; (Malibu, CA) ; Kazerani; Moujan; (Santa Monica, CA)
+Assignee:	Credibility Corp.
+
+Serial No.:	444467
+Series Code:	13
+Filed:	April 11, 2012
+Current U.S. Class:	715/780; 715/835
+Class at Publication:	715/780; 715/835
+International Class:	G06F 3/048 20060101 G06F003/048
+Claims
+
+
+1. A graphical user interface (GUI) comprising: an input field for specifying a specific entity; a display area; and a set of selectable graphical elements comprising at least: a first selectable graphical element populating said display area with credibility data presenting a first dimension of credibility for the specific entity when said first selectable graphical element is selected; and a second selectable graphical element populating said display area with credibility data presenting a second dimension of credibility for said specific entity when said second selectable graphical element is selected, wherein at least said first dimension and said second dimension of credibility compile overall credibility of the specific entity, wherein the credibility data presenting the first dimension of credibility is different than the credibility data presenting the second dimension of credibility. 
+
+2. The GUI of claim 1, wherein said first selectable graphical element orders said credibility data presenting the first dimension of credibility in a set of hierarchical accessible layers comprising at least a first hierarchical layer and a second hierarchical layer. 
+
+3. The GUI of claim 2, wherein said first hierarchical layer comprises credibility data presenting the first dimension of credibility and said second hierarchical layer comprises credibility data that details derivation of credibility data of said first hierarchical layer. 
+
+4. The GUI of claim 3, wherein said credibility data of said first hierarchical layer is presented in said display area when the first selectable graphical element is selected and said credibility data of said second hierarchical layer is presented in said display area based on a user interaction with the credibility data of said first hierarchical layer. 
+
+5. The GUI of claim 4, wherein said credibility data of said first hierarchical layer is presented with at least one interactive tool that can be interacted with to drill-down to present said credibility data of said second hierarchical layer in said display area. 
+
+6. The GUI of claim 3, wherein the set of hierarchical accessible layers is a first set of hierarchical layers, and wherein said second selectable graphical element orders said credibility data presenting the second dimension of credibility in a second set of hierarchical accessible layers comprising at least a first hierarchical layer and a second hierarchical layer. 
+
+7. The GUI of claim 6, wherein said credibility data of said first hierarchical layer of the second set of hierarchical layers is presented in said display area when the second selectable graphical element is selected and said credibility data of said second hierarchical layer of the second set of hierarchical layers is presented in said display area when drilling down from said credibility data of said first hierarchical layer of the second set of hierarchical layers. 
+
+8. The GUI of claim 1, wherein said credibility data presenting said first dimension of credibility comprises a first score quantifying qualitative messages that reference said specific entity and that are aggregated from a plurality of social media sites and wherein said credibility data presenting said second dimension of credibility comprises a second score quantifying quantitative reviews for said specific entity that are aggregated from a plurality of review sites. 

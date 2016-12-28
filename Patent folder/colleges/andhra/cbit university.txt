@@ -1,0 +1,8 @@
+College name:  cbit university
+
+Address: 
+Gandipet, Hyderabad, Andhra Pradesh
+
+Available courses: B.tech,M.TechS,MBA,MCA
+
+Website: www.cbit.ac.in

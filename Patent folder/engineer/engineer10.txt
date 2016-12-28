@@ -1,0 +1,30 @@
+SYSTEM AND METHOD FOR ONLINE AND MOBILE MEMORIES AND GREETING SERVICE ...
+
+Abstract
+A system, a method, and a user interface are described for personalizing and sending stationery/cards. A reminder list on the user interface includes a list of reminder entries each identifying an upcoming event including events generated based on a specified relationship between the user and one or more contacts of the user. A recommendation region is populated one or more recommended stationery/card designs associated with one of the entries in the reminder list. A stationery/card personalization engine provides the user with a set of personalization options related to the selected stationery/card design, and generates personalized stationery based on the selected stationery/card design and the user input.
+
+Inventors:	Berger; Kelly; (Los Altos, CA) ; Asar; Adnan; (Sunnyvale, CA) ; Chang; Kevin; (Sunnyvale, CA) ; Holloway; Matthew; (Palo Alto, CA) ; Chen; Eugene; (Belmont, CA) ; Salvador; Kris; (Sunnyvale, CA)
+Serial No.:	485450
+Series Code:	13
+Filed:	May 31, 2012
+Current U.S. Class:	715/739
+Class at Publication:	715/739
+International Class:	G06F 3/01 20060101 G06F003/01; H04W 8/00 20090101 H04W008/00; G06F 15/16 20060101 G06F015/16
+Claims
+
+
+1. A computer-network system implemented by an online stationery/card service for a user to personalize and send stationery/cards using a wireless device, the system comprising: a computer server configured to communicate with a wireless device and enable a user of the wireless device to personalize and send non-electronic stationery/cards, wherein the computer server is configured to enable a reminder list displayed on the wireless device, wherein the reminder list comprises a plurality of reminder entries each identifying an upcoming event associated with one or more contacts of the user stored in a contacts database, wherein the reminder list is organized based on a prioritization scheme with a highest priority event selected within the reminder list, wherein the computer server is configured to enable a recommendation region displayed on the wireless device, wherein the computer server is configured to automatically populate the recommendation region with one or more recommended stationery/card designs for the highest priority event in the reminder list; and a stationery/card personalization engine configured to receive user's selection of one of the one or more recommended stationery/card designs in the recommendation region using the wireless device, to provide the user with a set of personalization options related to the selected stationery/card design, and to generate a personalized stationery/card based on the selected stationery/card design and the user's input. 
+
+2. The computer-network system as in claim 1, wherein the computer server is configured to populate the recommendation region with one or more recommended stationery/card designs based on an upcoming event and an identity of the contact associated with the highest priority event in the reminder list. 
+
+3. The computer-network system as in claim 2, wherein the computer server is configured to populate the recommendation region with one or more recommended stationery/card designs based on a preference, interest, and taste of the contact and the upcoming event associated with the highest priority event in the reminder list. 
+
+4. The computer-network system as in claim 1, further comprising: a stationery/card contacts module configured to manage a user's contacts data stored in the contacts database, the contacts data including the relationship data specifying a relationship between the user and one or more of the contacts; and a stationery/card calendar module configured to automatically generate stationery/card calendar events in the user's calendar database based on the contacts data stored within the contacts database, wherein at least some of the calendar events are generated based on the specified relationship between the user and each of the contacts. 
+
+5. The computer-network system as in claim 1, wherein the contacts database stores relationships between the user and the contacts of the user, wherein at least some of the upcoming events are related to the relationships between the user and the contacts of the user. 
+
+6. The computer-network system as in claim 5, wherein the reminder service comprises prioritization logic for prioritizing the list based at least in part on the relationships between the user and the contacts of the user. 
+
+7. The computer-network system as in claim 1, wherein the computer server is configured to allow the user to transfer the one or more contacts from a social network to the contacts database. 
+
+8. The computer-network system as in claim 1, wherein the stationery/card calendar events include milestones associated with each of the contacts in the contacts database and wherein the reminder list includes entries associated with the milestones. 

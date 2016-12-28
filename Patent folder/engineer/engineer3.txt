@@ -1,0 +1,38 @@
+Celery Cultivar ADS-21 ...
+
+Abstract
+A celery cultivar, designated ADS-21, is disclosed. The invention relates to the seeds of celery cultivar ADS-21, to the plants of celery cultivar ADS-21 and to methods for producing a celery plant by crossing the cultivar ADS-21 with itself or another celery cultivar. The invention further relates to methods for producing a celery plant containing in its genetic material one or more transgenes and to the transgenic celery plants and plant parts produced by those methods. This invention also relates to celery cultivars or breeding cultivars and plant parts derived from celery cultivar ADS-21, to methods for producing other celery cultivars, lines or plant parts derived from celery cultivar ADS-21 and to the celery plants, varieties, and their parts derived from the use of those methods. The invention further relates to hybrid celery seeds, plants, and plant parts produced by crossing cultivar ADS-21 with another celery cultivar.
+
+Inventors:	Pierce; Lawrence K.; (Aromas, CA)
+Assignee:	A. DUDA & SONS, INC.
+Oviedo
+FL
+
+Serial No.:	084314
+Series Code:	13
+Filed:	April 11, 2011
+Current U.S. Class:	800/260; 435/410; 800/278; 800/279; 800/300; 800/301; 800/302; 800/303; 800/318
+Class at Publication:	800/260; 800/318; 435/410; 800/278; 800/300; 800/279; 800/301; 800/303; 800/302
+International Class:	A01H 1/00 20060101 A01H001/00; C12N 5/04 20060101 C12N005/04; A01H 5/02 20060101 A01H005/02; A01H 5/12 20060101 A01H005/12; A01H 5/04 20060101 A01H005/04; A01H 5/00 20060101 A01H005/00; A01H 5/10 20060101 A01H005/10
+Claims
+
+
+1. A seed of celery cultivar ADS-21, wherein a representative sample seed of said cultivar was deposited under ATCC Accession No. PTA-______. 
+
+2. A celery plant, or a part thereof, produced by growing the seed of claim 1. 
+
+3. A tissue culture produced from protoplasts or cells from the plant of claim 2, wherein said cells or protoplasts are produced from a plant part selected from the group consisting of leaf, callus, pollen, ovule, embryo, cotyledon, hypocotyl, meristematic cell, root, root tip, pistil, anther, flower, seed, shoot, stem, petiole and sucker. 
+
+4. A celery plant regenerated from the tissue culture of claim 3, wherein the plant has all of the morphological and physiological characteristics of cultivar ADS-21. 
+
+5. A method for producing a celery seed comprising crossing two celery plants and harvesting the resultant celery seed, wherein at least one celery plant is the celery plant of claim 2. 
+
+6. A celery seed produced by the method of claim 5. 
+
+7. A celery plant, or a part thereof, produced by growing said seed of claim 6. 
+
+8. The method of claim 5, wherein at least one of said celery plants is transgenic. 
+
+9. A method of producing a herbicide resistant celery plant, wherein said method comprises introducing a gene conferring herbicide resistance into the plant of claim 2. 
+
+10. A herbicide resistant celery plant produced by the method of claim 9, wherein the gene confers resistance to a herbicide selected from the group consisting of glyphosate, sulfonylurea, imidazolinone, dicamba, glufosinate, phenoxy proprionic acid, L-phosphinothricin, cyclohexone, cyclohexanedione, triazine, and benzonitrile. 

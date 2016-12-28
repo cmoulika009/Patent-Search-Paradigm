@@ -1,0 +1,36 @@
+SOYBEAN VARIETY D6854249 ...
+
+Abstract
+The invention relates to the soybean variety designated D6854249. Provided by the invention are the seeds, plants and derivatives of the soybean variety D6854249. Also provided by the invention are tissue cultures of the soybean variety D6854249 and the plants regenerated therefrom. Still further provided by the invention are methods for producing soybean plants by crossing the soybean variety D6854249 with itself or another soybean variety and plants produced by such methods.
+
+Inventors:	Bringe; Neal; (Elizabeth, CO) ; Mahr; Steve; (Lincoln, IA)
+Assignee:	Monsanto Technology LLC
+
+Serial No.:	081493
+Series Code:	13
+Filed:	April 6, 2011
+Current U.S. Class:	800/260; 435/415; 530/378; 554/9; 800/300; 800/301; 800/302; 800/303; 800/312
+Class at Publication:	800/260; 800/312; 435/415; 800/303; 800/302; 800/301; 800/300; 554/9; 530/378
+International Class:	A01H 5/00 20060101 A01H005/00; C07K 1/14 20060101 C07K001/14; A01H 1/02 20060101 A01H001/02; C11B 1/00 20060101 C11B001/00; C12N 5/04 20060101 C12N005/04; A01H 5/10 20060101 A01H005/10
+Claims
+
+
+1. A plant of soybean variety D6854249, wherein a sample of seed of said variety has been deposited under ATCC Accession No. ______. 
+
+2. A plant part of the plant of claim 1, wherein the plant part comprises at least a first cell of said plant. 
+
+3. The plant part of claim 2, further defined as pollen, a meristem, a cell, or an ovule. 
+
+4. A seed of soybean variety D6854249, wherein a sample of seed of said variety has been deposited under ATCC Accession No. ______. 
+
+5. A soybean plant that expresses all of the physiological and morphological characteristics of soybean variety D6854249, wherein a sample of seed of said variety has been deposited under ATCC Accession No. ______.
+
+6. A method of producing soybean seed, wherein the method comprises crossing the plant of claim 1 with itself or a second soybean plant. 
+
+7. The method of claim 6, wherein the method comprises crossing the plant of soybean variety D6854249 with a second, distinct soybean plant to produce an F.sub.1 hybrid soybean seed. 
+
+8. An F.sub.1 hybrid soybean seed produced by the method of claim 7. 
+
+9. An F.sub.1 hybrid soybean plant produced by growing the seed of claim 8. 
+
+10. A composition comprising a seed of soybean variety D6854249 comprised in plant seed growth media, wherein a sample of seed of said variety has been deposited under ATCC Accession No. ______. 

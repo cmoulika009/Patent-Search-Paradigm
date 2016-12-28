@@ -1,0 +1,30 @@
+METHODS AND APPARATUS FOR RELEASABLY SUPPORTING A VEHICLE WHEEL ASSEMBLY ...
+
+Abstract
+An axle for removably retaining a wheel on a vehicle. The axle comprises a rotary-type connector at a first end thereof; a cam assembly operatively connected to the second end, the cam assembly including a cam having an axis of rotation; a lever operatively connected to a second end of the axle, said lever being rotatable about an axis substantially parallel to the axis of rotation of the cam, between an open position in which the axle is removable from and mountable on the vehicle and a closed position in which the axle is retained on the vehicle; and a cam assembly operatively connected to the second end; and a lever stop ensuring that an angle of maximum rotation for the lever from the closed position is less than 180 degrees.
+
+Inventors:	Laird; Andrew; (Los Gatos, CA) ; Galasso; Mario; (Watsonville, CA) ; Becker; William; (Aptos, CA) ; Haugen; David; (Pacific Grove, CA)
+Serial No.:	527968
+Series Code:	13
+Filed:	June 20, 2012
+Current U.S. Class:	301/124.2; 29/525.11
+Class at Publication:	301/124.2; 29/525.11
+International Class:	B60B 35/00 20060101 B60B035/00; B23P 11/00 20060101 B23P011/00
+Claims
+
+
+1. An axle for removably retaining a wheel on a vehicle, said axle comprising: a rotary-type connector at a first end thereof; a cam assembly operatively connected to the second end, said cam assembly including a cam having an axis of rotation; a lever operatively connected to a second end of said axle, said lever being rotatable about an axis substantially parallel said axis of rotation of said cam, between an open position in which said axle is removable from and mountable on said vehicle and a closed position in which said axle is retained on said vehicle, wherein said lever has a closed position in which a substantial portion of said lever occupies a position relative to an adjacent vehicle component such that a portion less than a whole of said lever protrudes laterally from said vehicle; and a lever stop ensuring that an angle of maximum rotation for said lever is sufficiently limited to ensure that said lever, in said open position, does not substantially interfere with said adjacent vehicle component when said axle is rotated. 
+
+2. The axle of claim 1, wherein said adjacent vehicle component is a fork. 
+
+3. The axle of claim 2, wherein said fork is a suspension cylinder. 
+
+4. The axle of claim 1, wherein said lever is configured such that a rotation of said lever about a longitudinal axis of said axle causes engagement or disengagement of said rotary-type connector with a component part of said vehicle, and wherein said angle of maximum rotation is such that said lever is rotatable about said longitudinal axis substantially unimpeded by an adjacent vehicle component of said vehicle. 
+
+5. The axle of claim 1, wherein said lever stop is integral with said lever. 
+
+6. The axle of claim 1, wherein said lever stop is integral with said cam assembly. 
+
+7. The axle of claim 1, wherein said lever stop is integral in parts with said lever and said cam assembly. 
+
+8. The axle of claim 1, wherein said angle of maximum rotation is between a range of 120 degrees and 165 degrees. 

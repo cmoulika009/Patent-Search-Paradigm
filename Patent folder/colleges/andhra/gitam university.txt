@@ -1,0 +1,8 @@
+College name:  gitam university
+
+Address: 
+Gandhi Nagar, Beach Road,Rushikonda, Visakhapatnam, Andhra Pradesh,530045
+
+Available courses: B.tech,M.TechS,MBA,MCA,M.Sc,M.Phil,Ph.D,M.Pharm,B.Pharm
+
+Website: www.gitam.edu

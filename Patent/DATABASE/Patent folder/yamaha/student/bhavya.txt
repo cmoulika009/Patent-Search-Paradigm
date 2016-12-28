@@ -1,0 +1,5 @@
+Name: bhanya
+Dob: 09-12-1991
+College: SASTRA University
+Company: Accenture
+Salary: 3.16 lak 

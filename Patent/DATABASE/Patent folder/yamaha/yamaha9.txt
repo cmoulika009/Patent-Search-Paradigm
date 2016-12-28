@@ -1,0 +1,37 @@
+ROTATION ANGLE DETECTION DEVICE, ROTATION ANGLE DETECTION METHOD, AND PART MOUNTING APPARATUS ...
+
+Abstract
+A rotation angle detection device of the present invention includes: a support body;... a rotating body that can rotate with respect to the support body about a rotation axis and move in a rotation axis direction; a rotation angle detection unit that has a magnet attached to either of the support body and the rotating body, and a magnetic sensor attached to the other of the support body and the rotating body and facing the magnet in the rotation axis direction, and that detects a rotation angle of the rotating body on the basis of an output signal of the magnetic sensor; and a position detection unit that detects that the rotating body is positioned at a detection position in which a distance between the magnet and the magnetic sensor in the rotation axis direction becomes a predetermined detection distance. The rotation angle detection unit reads the output signal of the magnetic sensor and determines the rotation angle of the rotating body with respect to the support body from the output signal when the position detection unit detects that the rotating body is positioned at the detection position.
+
+Inventors:	NAKAMURA; Ryousuke; (Shizuoka, JP) ; INAGAKI; Shigeyoshi; (Shizuoka, JP)
+Assignee:	YAMAHA HATSUDOKI KABUSHIKI KAISHA
+Shizuoka-ken
+JP
+
+Serial No.:	432902
+Series Code:	13
+Filed:	March 28, 2012
+Current U.S. Class:	29/739; 324/207.2; 324/207.25
+Class at Publication:	29/739; 324/207.25; 324/207.2
+International Class:	G01B 7/30 20060101 G01B007/30; H05K 13/04 20060101 H05K013/04
+Foreign Application Data
+Date	Code	Application Number
+Apr 11, 2011	JP	2011-087355
+Claims
+
+
+1. A rotation angle detection device comprising: a support body; a rotating body that has a rotation axis and can rotate with respect to the support body and move in a rotation axis direction that is an extension direction of the rotation axis; a rotation angle detection unit that has a magnet attached to either of the support body and the rotating body, and a magnetic sensor attached to the other of the support body and the rotating body and facing the magnet in the rotation axis direction, and that detects a rotation angle of the rotating body with respect to the support body on the basis of an output signal of the magnetic sensor; and a position detection unit that detects that the rotating body is positioned at a detection position in which a distance between the magnet and the magnetic sensor in the rotation axis direction becomes a predetermined detection distance, wherein the rotation angle detection unit reads the output signal of the magnetic sensor and determines the rotation angle of the rotating body with respect to the support body from the output signal when the position detection unit detects that the rotating body is positioned at the detection position. 
+
+2. The rotation angle detection device according to claim 1, wherein the rotating body rotates with respect to the support body by moving reciprocatingly in the rotation axis direction. 
+
+3. The rotation angle detection device according to claim 1, wherein the rotating body moves within a predetermined range in the rotation axis direction, and the detection distance is a minimum value of a distance between the magnet and the magnetic sensor in the rotation axis direction, the distance changing following the movement of the rotating body along the rotation axis direction within the predetermined range. 
+
+4. The rotation angle detection device according to claim 1, wherein the rotating body is driven in the rotation axis direction by a motor equipped with an encoder, and the position detection unit detects that the rotating body is positioned at the detection position on the basis of an output signal of the encoder. 
+
+5. The rotation angle detection device according to claim 1, wherein the magnetic sensor has two Hall elements arranged with a spacing of 90.degree. around the rotation axis. 
+
+6. The rotation angle detection device according to claim 5, wherein the rotation angle detection unit determines the rotation angle of the rotating body with respect to the support body by plugging a ratio of output values of the two Hall elements into an inverse tangent function. 
+
+7. A part mounting apparatus for mounting a part on a substrate, comprising: the rotation angle detection device according to claim 1, in which the rotation axis is a vertical axis; a plurality of attraction nozzles arranged around the vertical axis below the rotating body; a shaft that extends in a direction parallel to the vertical axis, supports the plurality of attraction nozzles so that the attraction nozzles can moved up and down, and supports the rotating body rotatably about the vertical axis; a nozzle pushing member that is attached to the rotating body, and that can be disposed at any above-nozzle position, from among above-nozzle positions which are respective positions above the plurality of attraction nozzles and can move down from the above-nozzle position to push the attraction nozzle down by rotating integrally with the rotating body; and a pushing member angle detection unit that determines a rotation angle of the nozzle pushing member with respect to the plurality of attraction nozzles, wherein the pushing member angle detection unit determines the rotation angle of the nozzle pushing member with respect to the plurality of attraction nozzles on the basis of the rotation angle of the rotating body with respect to the support body that has been detected by the rotation angle detection device. 
+
+8. The part mounting apparatus according to claim 7, wherein the shaft can rotate about the vertical axis with respect to the support body, and the pushing member angle detection unit determines the rotation angle of the nozzle pushing member with respect to the plurality of attraction nozzles supported by the shaft by subtracting the rotation angle of the shaft with respect to the support body from the rotation angle of the rotating body with respect to the support body that has been detected by the rotation angle detection device. 

@@ -1,0 +1,28 @@
+QUICK CHANGE VISE JAW SYSTEM ...
+
+Abstract
+A master jaw assembly used in a vise including a locking jaw, a detachable jaw and a clamping device disposed in the locking jaw, securely clamping the detachable jaw to the locking jaw. The locking jaw has a groove extending along an inner surface of the locking jaw defined by a first and second edge. The second edge is tapered inward and downward toward the base. The detachable jaw has a dovetail protrusion along one side surface thereof. The clamping device includes a plurality of specially-shaped nuts having a downwardly tapered edge, said nuts designed to receive one end of a double-ended threaded stud. The detachable jaw becomes fixed to the locking jaw by inserting the protrusion into the groove and torquing the studs to tighten the nuts downward against the protrusion such that the protrusion is clamped between the taper of the second edge and the nuts.
+
+Inventors:	Ehnstrom; William J.; (Cottage Grove, MN)
+Assignee:	BELLATEX INDUSTRIES, LLC
+Prior Lake
+MN
+
+Serial No.:	083133
+Series Code:	13
+Filed:	April 8, 2011
+Current U.S. Class:	269/282; 269/285
+Class at Publication:	269/282; 269/285
+International Class:	B25B 1/24 20060101 B25B001/24
+Claims
+
+
+1. Master jaw assembly used in a vise, comprising: (a) a locking jaw having a groove extending along an inner side surface of the locking jaw, said groove having a base and defined by first and second opposing edges where the first edge is flat and the second edge is tapered toward inward and downward of the base; (b) a detachable jaw having a dovetail protrusion along one side surface thereof of substantially the same width as the groove; and (c) a clamping means disposed in the locking jaw along the first edge for securely coupling the detachable jaw to the locking jaw. 
+
+2. The master jaw assembly of claim 1 wherein the locking jaw further includes a pair of holes, in the base. 
+
+3. The master jaw assembly of claim 2 wherein the locking jaw is adapted to be releasably attached to inner sides of a fixed jaw and a movable jaw of a vise. 
+
+4. The master jaw assembly of claim 1 wherein the detachable jaw is formed of a length of aluminum stock material and the locking metal jaw is formed of a length of steel stock material. 
+
+5. The master jaw assembly of claim 1 wherein the clamping means comprises: (a) at least one tapped hole vertically disposed in the base of the locking jaw; (b) at least one nut having a threaded bore running through a body of the nut and the body having an inwardly and upwardly tapered edge; (c) at least one aperture formed inward from a top surface of the locking jaw and intersecting the first edge of the locking jaw, said aperture sized and shaped to receive the nut; and (d) at least one double-end stud having: (i) a right-hand threaded segment for screwing into the tapped hole; and (ii) a left-hand threaded segment on a second end for screwing into the threaded bore, such that when the double-end stud is rotated clockwise the first end screws into the tapped hole and draws the nut downward through the aperture and thereby clamps the dovetail of the detachable jaw between the second edge of the locking jaw and the tapered edge of the nut. 
