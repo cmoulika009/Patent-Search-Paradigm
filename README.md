@@ -1,4 +1,4 @@
-<h1 agign="center">Patent Search Paradigm</h1>
+<h1 align="center">Patent Search Paradigm</h1>
 <h2>1. Introduction</h2>
 A patent is a set of exclusive rights granted to inventor or their assignee for  a limited period   of time. Patents are a form of intellectual property.Patent search is for finding the patents that are already there. There are several unique challenges in patent search, mainly due to the difficulty of understanding users query intent and efficiently matching the query keywords to patents. As patent search can help the patent examiners to find previously published relevant patents and validate or invalidate new patent applications, it has become more and more popular, and recently attracts much attention from both industrial and academic communities. There are several unique challenges in patent search, mainly due to the difficulty of understanding users query intent and efficiently matching the query keywords to patents.As part of this project we improved the search efficiency. And we provided the more suggestions for user to check the patents. We correct the errors in the search keywords using the query correction methods. 
 
